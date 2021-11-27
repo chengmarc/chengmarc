@@ -1,6 +1,9 @@
 Marc Cheng
 - 
-Mathematics specialist from University of Toronto; Strong interest in comp sci. and data science
+Undergraduate Student @ University of Toronto
+Mathematics Specialist | Financial Analyst
+Skateboader, Gamer, Anime Lover, Developper, Amateur Artist
+
 - 🌱 I’m currently learning: Python, R, SQL
 - 📫 How to reach me | marc.cheng@mail.utoronto.ca
 
