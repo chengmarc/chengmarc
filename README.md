@@ -6,7 +6,7 @@ Marc Cheng
 - When I'm not working or engaged in research projects, I enjoy spending my free time skateboarding and traveling around the world.
 - 🌱 I’m currently learning: Python, R, SQL
 - 📫 How to reach me | marc.cheng@mail.utoronto.ca
-- 🌐 Personal Website | chengmarc.github.io
+- 🌐 Personal Website | [chengmarc.github.io](https://chengmarc.github.io)
 <!---
 chengmarc/chengmarc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
