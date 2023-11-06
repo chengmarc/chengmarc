@@ -6,8 +6,9 @@ Marc Cheng
 - When I'm not working or engaged in research projects, I enjoy spending my free time skateboarding and traveling around the world.
 <br />
 
-- 🌱 I’m currently learning: PyTorch, Machine Learning
-- 💻 I’m proficient in: Python (pandas, matplotlib, bs4), R (dyplr, ggplot2), SQL
+- 🌱 I’m currently learning: IBM DB2
+- 🌐 I’m proficient in: Python, Jupyter Notebook, R, SQL, HTML, JavaScript, Node.js
+- 💻 I’m experienced in: **[ML]** torch, keras, numpy **[Analytics]** pandas, matplotlib, ggplot2 **[Crawling]** selenium, bs4, requests
 - 📫 How to reach me | marc.cheng@mail.utoronto.ca
 - 🌐 Personal Website | [chengmarc.github.io](https://chengmarc.github.io)
 <!---
