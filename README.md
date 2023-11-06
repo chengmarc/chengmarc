@@ -1,9 +1,10 @@
 Marc Cheng
 - 
-- Hello and welcome! I'm a data analyst, mathematics specialist, a skateboarder, and a world traveler.
-- I hold a Bachelor of Science degree in Mathematics. My undergraduate studies provided me with a comprehensive introduction to various fields of mathematics, including Analysis, Algebra, Number Theory, Graph Theory, and Game Theory.
-- Recently, I've been working on some introductory image labelling project using CNN.
-- When I'm not working or engaged in research projects, I enjoy spending my free time skateboarding and traveling around the world.
+- Hello and welcome! I'm a data analyst, mathematics specialist, and a world traveler.
+- I hold a Bachelor of Science degree in Mathematics. My undergraduate studies provided me with a comprehensive introduction to various fields of mathematics, including Analysis, Algebra, Number Theory, Graph Theory, Combinatorics, and Game Theory.
+- As a specialist focused on Probability/Statistics, I also have completed courses about Multivariate Data and Time Series Analysis.
+- Recently, I've been working on some introductory image labelling project using convolutional neural networks, and I have been conducting some independent quantitative analysis on the cryptocurrency market.
+- When I'm not working or engaged in projects, I enjoy spending my free time watching anime, skateboarding, and traveling around the world.
 <br />
 
 - 🌱 I’m currently learning: IBM DB2
