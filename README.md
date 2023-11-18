@@ -1,4 +1,4 @@
-Marc Cheng
+Marc Cheng - [chengmarc.github.io](https://chengmarc.github.io)
 - 
 - Hello and welcome! I'm a data analyst, mathematics specialist, and a world traveler.
 - I hold a Bachelor of Science degree in Mathematics. My undergraduate studies provided me with a comprehensive introduction to various fields of mathematics, including Analysis, Algebra, Number Theory, Graph Theory, Combinatorics, and Game Theory.
@@ -11,7 +11,6 @@ Marc Cheng
 - 🌐 I’m proficient in: Python, Jupyter Notebook, R, SQL, HTML, JavaScript, Node.js
 - 💻 I’m experienced in: **[ML]** torch, keras, numpy **[Analytics]** pandas, matplotlib, ggplot2 **[Crawling]** selenium, bs4, requests
 - 📫 How to reach me | marc.cheng@mail.utoronto.ca
-- 🌐 Personal Website | [chengmarc.github.io](https://chengmarc.github.io)
 <!---
 chengmarc/chengmarc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
