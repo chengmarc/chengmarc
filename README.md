@@ -1,4 +1,4 @@
-Marc Cheng - [chengmarc.github.io](https://chengmarc.github.io)
+Marc Cheng - [chengmarc.github.io](https://chengmarc.com)
 - 
 - Hello and welcome! I'm a data analyst, mathematics specialist, and a world traveler.
 - I hold a Bachelor of Science degree in Mathematics. My undergraduate studies provided me with a comprehensive introduction to various fields of mathematics, including Analysis, Algebra, Number Theory, Graph Theory, Combinatorics, and Game Theory.
