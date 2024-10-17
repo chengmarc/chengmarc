@@ -10,7 +10,7 @@ Marc Cheng - [chengmarc.com](https://chengmarc.com)
 - 🌱 I’m currently learning: IBM DB2
 - 🌐 I’m proficient in: Python, Jupyter Notebook, R, SQL, HTML, JavaScript, Node.js
 - 💻 I’m experienced in: **[ML]** torch, keras, numpy **[Analytics]** pandas, matplotlib, ggplot2 **[Crawling]** selenium, bs4, requests
-- 📫 How to reach me | marc.cheng@mail.utoronto.ca
+- 📫 How to reach me | marccheng@outlook.com
 <!---
 chengmarc/chengmarc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
