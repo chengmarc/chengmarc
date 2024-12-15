@@ -10,30 +10,30 @@ When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboardin
 
 **Things I code with** 
 
-![R](https://img.shields.io/badge/R-%23276DC3?logo=r&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-![SQL](https://img.shields.io/badge/SQL-CC2927?logoColor=white&style=flat)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat)
+![R](https://img.shields.io/badge/R--%23276DC3?logo=r&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python--3776AB?logo=python&logoColor=white&style=flat)
+![Anaconda](https://img.shields.io/badge/Anaconda--44A833?logo=anaconda&logoColor=white&style=flat)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook--F37626?logo=jupyter&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/HTML5--%23E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/CSS3--1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript--F7DF1E?logo=javascript&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js--339933?logo=node.js&logoColor=white&style=flat)
+![Bash](https://img.shields.io/badge/Bash--4EAA25?logo=gnu-bash&logoColor=white&style=flat)
+![LaTeX](https://img.shields.io/badge/LaTeX--008080?logo=latex&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/Git--F05032?logo=git&logoColor=fff&style=flat)
+![SQL](https://img.shields.io/badge/SQL--CC2927?logoColor=white&style=flat)
+![Markdown](https://img.shields.io/badge/Markdown--000000?logo=markdown&logoColor=white&style=flat)
 
 **Frameworks I use** 
 
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff&style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-0099C6?style=flat)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff&style=flat)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=flat)
+![Keras](https://img.shields.io/badge/Keras--D00000?logo=keras&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch--EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow--FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn--F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib--71D291?logo=matplotlib&logoColor=fff&style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn--0099C6?style=flat)
+![NumPy](https://img.shields.io/badge/NumPy--4DABCF?logo=numpy&logoColor=fff&style=flat)
+![Pandas](https://img.shields.io/badge/Pandas--150458?logo=pandas&logoColor=fff&style=flat)
 
 **Software-as-a-Service** 
 
