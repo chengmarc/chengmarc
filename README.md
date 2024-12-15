@@ -14,13 +14,14 @@ When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboardin
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=flat-square)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white&style=flat-square)
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-CC2927?logoColor=white&style=flat-square)
+
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-CC2927?logoColor=white&style=flat-square)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat-square)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
 
@@ -53,6 +54,12 @@ When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboardin
 
 ## 🖥️ Projects
 
+| Description                             | Link                                                   |
+|-----------------------------------------|--------------------------------------------------------|
+| GPT2 Full Replication                   | https://github.com/chengmarc/gpt-replication           |
+| ResNet for CIFAR-10 and CIFAR-100       | https://github.com/chengmarc/image-labelling           |
+| ConvNet for MNIST                       | https://github.com/chengmarc/image-labelling           |
+| Quantitative Analysis                   | https://github.com/chengmarc/quant-analysis            |
 
 ## 🌐 Social Media
 
