@@ -41,9 +41,9 @@ When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboardin
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white&style=flat)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white&style=flat)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat)
-![Amazon AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=flat)
-![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?logo=googlecolab&logoColor=white&style=flat)
-![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-%23669DF6.svg?logo=googlebigquery&logoColor=white&style=flat)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=flat)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?logo=googlecolab&logoColor=white&style=flat)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-%23669DF6.svg?logo=googlebigquery&logoColor=white&style=flat)
 
 **Design and Editing** 
 
