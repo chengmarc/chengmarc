@@ -59,12 +59,14 @@ When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboardin
 | ResNet for CIFAR-10 and CIFAR-100       | https://github.com/chengmarc/image-labelling           |
 | ConvNet for MNIST                       | https://github.com/chengmarc/image-labelling           |
 | Quantitative Analysis                   | https://github.com/chengmarc/quant-analysis            |
+| Data Crawler for TradingView            | https://github.com/chengmarc/trade-scan                |
+| Data Crawler for CoinGecko              | https://github.com/chengmarc/gecko-scan                |
 
-## 🌐 Social Media
+## 🌐 Contact
 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
-![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)
-![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white&style=for-the-badge)
-![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff&style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/chengmarc)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marc-cheng/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff&style=for-the-badge)](https://space.bilibili.com/1351785)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/marcc.cheng/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/PGE98Tu5j4)
+[![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge)](https://store.steampowered.com/)
