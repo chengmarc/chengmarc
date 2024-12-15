@@ -22,7 +22,7 @@ When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboardin
 ![LaTeX](https://img.shields.io/badge/LaTeX--008080?logo=latex&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/Git--F05032?logo=git&logoColor=fff&style=flat)
 ![SQL](https://img.shields.io/badge/SQL--CC2927?logoColor=white&style=flat)
-![Markdown](https://img.shields.io/badge/Markdown--000000?logo=markdown&logoColor=white&style=flat)
+![Markdown](https://img.shields.io/badge/Markdown--blue?logo=markdown&logoColor=white&style=flat)
 
 **Frameworks I use** 
 
@@ -37,19 +37,19 @@ When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboardin
 
 **Software-as-a-Service** 
 
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff&style=flat)
-![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white&style=flat)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white&style=flat)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=flat)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?logo=googlecolab&logoColor=white&style=flat)
-![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-%23669DF6.svg?logo=googlebigquery&logoColor=white&style=flat)
+![SAP](https://img.shields.io/badge/SAP--0FAAFF?logo=sap&logoColor=fff&style=flat)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure--0089D6?logo=msazure&logoColor=white&style=flat)
+![Cloudflare](https://img.shields.io/badge/Cloudflare--F38020?logo=Cloudflare&logoColor=white&style=flat)
+![Tableau](https://img.shields.io/badge/Tableau--E97627?logo=tableau&logoColor=white&style=flat)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS--%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=flat)
+![Google Colab](https://img.shields.io/badge/Google%20Colab--%23F9AB00.svg?logo=googlecolab&logoColor=white&style=flat)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery--%23669DF6.svg?logo=googlebigquery&logoColor=white&style=flat)
 
 **Design and Editing** 
 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=Adobe%20Lightroom&logoColor=white&style=flat)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=white&style=flat)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white&style=flat)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom--31A8FF?logo=Adobe%20Lightroom&logoColor=white&style=flat)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop--31A8FF?logo=Adobe%20Photoshop&logoColor=white&style=flat)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro--9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white&style=flat)
 
 ## 🖥️ Projects
 
