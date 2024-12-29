@@ -12,17 +12,21 @@ When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboardin
 
 ![R](https://img.shields.io/badge/R--%23276DC3?logo=r&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/Python--3776AB?logo=python&logoColor=white&style=flat)
-![Anaconda](https://img.shields.io/badge/Anaconda--44A833?logo=anaconda&logoColor=white&style=flat)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook--F37626?logo=jupyter&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/HTML5--%23E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/CSS3--1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript--F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js--339933?logo=node.js&logoColor=white&style=flat)
-![NPM](https://img.shields.io/badge/NPM--CC2927?logo=npm&logoColor=white&style=flat)
-![Bash](https://img.shields.io/badge/Bash--4EAA25?logo=gnu-bash&logoColor=white&style=flat)
-![LaTeX](https://img.shields.io/badge/LaTeX--008080?logo=latex&logoColor=white&style=flat)
+![Solidity](https://img.shields.io/badge/Solidity--363636?logo=solidity&logoColor=white&style=flat)
+\
+![pip](https://img.shields.io/badge/pip--3776AB?logo=pypi&logoColor=white&style=flat)
+![Anaconda](https://img.shields.io/badge/Anaconda--44A833?logo=anaconda&logoColor=white&style=flat)
+![nvm](https://img.shields.io/badge/nvm--F4DD4B?logo=nvm&logoColor=white&style=flat)
+![npm](https://img.shields.io/badge/npm--CB3837?logo=npm&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/Git--F05032?logo=git&logoColor=fff&style=flat)
-![SQL](https://img.shields.io/badge/SQL--CC2927?logoColor=white&style=flat)
+![Bash](https://img.shields.io/badge/Bash--4EAA25?logo=gnu-bash&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL--4479A1?logo=mysql&logoColor=white&style=flat)
+![LaTeX](https://img.shields.io/badge/LaTeX--008080?logo=latex&logoColor=white&style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown--blue?logo=markdown&logoColor=white&style=flat)
 
 **Frameworks I use** 
