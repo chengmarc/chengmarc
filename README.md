@@ -63,6 +63,7 @@ When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboardin
 | GPT2 Full Replication                   | https://github.com/chengmarc/gpt-replication           |
 | ResNet for CIFAR-10 and CIFAR-100       | https://github.com/chengmarc/image-labelling           |
 | ConvNet for MNIST                       | https://github.com/chengmarc/image-labelling           |
+| ECR-20 Meme Coin                        | https://github.com/chengmarc/ECR-20-memecoin           |
 | Quantitative Analysis                   | https://github.com/chengmarc/quant-analysis            |
 | Data Crawler for TradingView            | https://github.com/chengmarc/trade-scan                |
 | Data Crawler for CoinGecko              | https://github.com/chengmarc/gecko-scan                |
