@@ -48,11 +48,6 @@ When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboardin
 ![Google Colab](https://img.shields.io/badge/Google%20Colab--%23F9AB00.svg?logo=googlecolab&logoColor=white&style=flat)
 ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery--%23669DF6.svg?logo=googlebigquery&logoColor=white&style=flat)
 
-**Design and Editing** 
-
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom--31A8FF?logo=Adobe%20Lightroom&logoColor=white&style=flat)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop--31A8FF?logo=Adobe%20Photoshop&logoColor=white&style=flat)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro--9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white&style=flat)
 
 ## 🖥️ Projects
 
