@@ -69,4 +69,4 @@ When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboardin
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff&style=for-the-badge)](https://space.bilibili.com/1351785)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/marcc.cheng/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/PGE98Tu5j4)
-[![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge)](https://store.steampowered.com/)
+[![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge)](https://steamcommunity.com/id/everwith/)
