@@ -53,7 +53,7 @@ When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboardin
 
 | Description                             | Link                                                   |
 |-----------------------------------------|--------------------------------------------------------|
-| State Space Model with MAMBA structure  | https://github.com/chengmarc/state-spaces-mamba        |
+| State Space Model with MAMBA structure  | https://github.com/chengmarc/state-space-mamba        |
 | GPT2 Full Replication                   | https://github.com/chengmarc/gpt-replication           |
 | ResNet for CIFAR-10 and CIFAR-100       | https://github.com/chengmarc/image-labelling           |
 | ConvNet for MNIST                       | https://github.com/chengmarc/image-labelling           |
