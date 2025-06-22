@@ -1,8 +1,6 @@
 ## Marc Cheng - [chengmarc.com/main](https://chengmarc.com/main)
-👋 Hello and welcome!
-
-I'm a mathematics specialist, a data scientist, and a world traveler 🌍.\
-I hold a Bachelor of Science in Mathematics and specialize in Probability/Statistics.\
+Hello and welcome. I'm a mathematics specialist, a data scientist, and a cat lover. [Download Resume](https://chengmarc.com/main/metadata/Marc%20Cheng%20-%20Resume%20v2.5.pdf) \
+I hold a Bachelor of Science in Mathematics and specialize in Probability/Statistics. \
 When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboarding | 🧗‍♂ rock climbing
 
 
@@ -50,16 +48,12 @@ When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboardin
 ![Google Colab](https://img.shields.io/badge/Google%20Colab--%23F9AB00.svg?logo=googlecolab&logoColor=white&style=flat)
 ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery--%23669DF6.svg?logo=googlebigquery&logoColor=white&style=flat)
 
-**Design and Editing** 
-
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom--31A8FF?logo=Adobe%20Lightroom&logoColor=white&style=flat)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop--31A8FF?logo=Adobe%20Photoshop&logoColor=white&style=flat)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro--9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white&style=flat)
 
 ## 🖥️ Projects
 
 | Description                             | Link                                                   |
 |-----------------------------------------|--------------------------------------------------------|
+| State Space Model with MAMBA structure  | https://github.com/chengmarc/state-space-mamba        |
 | GPT2 Full Replication                   | https://github.com/chengmarc/gpt-replication           |
 | ResNet for CIFAR-10 and CIFAR-100       | https://github.com/chengmarc/image-labelling           |
 | ConvNet for MNIST                       | https://github.com/chengmarc/image-labelling           |
@@ -75,4 +69,4 @@ When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboardin
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff&style=for-the-badge)](https://space.bilibili.com/1351785)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/marcc.cheng/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/PGE98Tu5j4)
-[![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge)](https://store.steampowered.com/)
+[![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge)](https://steamcommunity.com/id/everwith/)
