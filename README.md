@@ -1,5 +1,5 @@
 ## Marc Cheng - [chengmarc.com/main](https://chengmarc.com/main)
-Hello and welcome. I'm a mathematics specialist, a data scientist, and a cat lover. [Download Resume](https://chengmarc.com/main/metadata/Marc%20Cheng%20-%20Resume%20v2.5.pdf) \
+Hello and welcome. I'm a mathematics specialist, a data scientist, and a cat lover. [Download Resume](https://chengmarc.com/main/metadata/Marc%20Cheng%20-%20Resume%20v3.0.pdf) \
 I hold a Bachelor of Science in Mathematics and specialize in Probability/Statistics. \
 When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboarding | 🧗‍♂ rock climbing
 
