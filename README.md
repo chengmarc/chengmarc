@@ -1,7 +1,7 @@
 ## About Me
 
 Mathematics Specialist @UofT '23 | Focus: ML systems, quantitative methods\
-When I'm not working: 🎬 anime | 🕹️ gaming | 🛹 skateboarding | 🧗‍♂ rock climbing
+When I'm not working: anime | gaming | travelling | rock climbing
 
 ## Current Focus
 
