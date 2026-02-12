@@ -60,11 +60,6 @@ Automated data collection from TradingView for market analysis.
 **[CoinGecko Data Crawler](https://github.com/chengmarc/gecko-scan)**  
 Cryptocurrency market data aggregation and tracking.
 
-### Other
-
-**[ERC-20 Token](https://github.com/chengmarc/ECR-20-memecoin)**  
-Smart contract implementation exploring Ethereum token standards and deployment.
-
 ## More
 Personal Website: [chengmarc.com/main](https://chengmarc.com/main)
 
