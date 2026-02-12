@@ -1,72 +1,71 @@
-## Marc Cheng - [chengmarc.com/main](https://chengmarc.com/main)
-Hello and welcome. I'm a mathematics specialist, a data scientist, and a cat lover. [Download Resume](https://chengmarc.com/main/metadata/Marc%20Cheng%20-%20Resume%20v3.0.pdf) \
-I hold a Bachelor of Science in Mathematics and specialize in Probability/Statistics. \
-When I’m not working, I enjoy: 🎬 anime | 🕹️ gaming | 🛹 skateboarding | 🧗‍♂ rock climbing
+## About Me
+
+Mathematics Specialist @UofT '23 | Focus: ML systems, quantitative methods\
+When I'm not working: 🎬 anime | 🕹️ gaming | 🛹 skateboarding | 🧗‍♂ rock climbing
+
+## Current Focus
+
+Exploring **prompt engineering** and **LLM-assisted decision systems** — using language models to augment human decision-making processes. Interested in the intersection of cognitive workflows and AI reasoning capabilities.
+
+## Future Interest
+
+Investigating connections between **LLMs and Default Mode Network** — exploring parallels between AI reasoning patterns and human introspective cognition.
+
+## Technical Stack
+
+**Languages & Tools**
+
+![R](https://img.shields.io/badge/R-2C3E50?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2C3E50?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2C3E50?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2C3E50?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2C3E50?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2C3E50?style=flat-square&logo=node.js&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-2C3E50?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2C3E50?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-2C3E50?style=flat-square&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-2C3E50?style=flat-square&logo=markdown&logoColor=white)
+
+**ML/Data Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-34495E?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-34495E?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-34495E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-34495E?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-34495E?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-34495E?style=flat-square&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-34495E?style=flat-square&logo=jupyter&logoColor=white)
 
 
-## 🛠️ Skills
+## Selected Projects
 
-**Things I code with** 
+### Machine Learning
 
-![R](https://img.shields.io/badge/R--%23276DC3?logo=r&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python--3776AB?logo=python&logoColor=white&style=flat)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook--F37626?logo=jupyter&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/HTML5--%23E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/CSS3--1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript--F7DF1E?logo=javascript&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/Node.js--339933?logo=node.js&logoColor=white&style=flat)
-![Solidity](https://img.shields.io/badge/Solidity--363636?logo=solidity&logoColor=white&style=flat)
-\
-![pip](https://img.shields.io/badge/pip--3776AB?logo=pypi&logoColor=white&style=flat)
-![Anaconda](https://img.shields.io/badge/Anaconda--44A833?logo=anaconda&logoColor=white&style=flat)
-![nvm](https://img.shields.io/badge/nvm--F4DD4B?logo=nvm&logoColor=white&style=flat)
-![npm](https://img.shields.io/badge/npm--CB3837?logo=npm&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git--F05032?logo=git&logoColor=fff&style=flat)
-![Bash](https://img.shields.io/badge/Bash--4EAA25?logo=gnu-bash&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/MySQL--4479A1?logo=mysql&logoColor=white&style=flat)
-![LaTeX](https://img.shields.io/badge/LaTeX--008080?logo=latex&logoColor=white&style=flat)
-![Markdown](https://img.shields.io/badge/Markdown--blue?logo=markdown&logoColor=white&style=flat)
+**[MambaSSM for Time Series Forecasting](https://github.com/chengmarc/state-space-mamba)**  
+Sequence-to-sequence forecasting using state-space models. Implements log detrending and residual modeling, comparing SegRNN, LSTM, Seq2Seq, Attention, Transformer, and MambaSSM architectures on multi-feature time series data.
 
-**Frameworks I use** 
+**[GPT-2 Implementation](https://github.com/chengmarc/gpt-replication)**  
+Step-by-step GPT-2 replication following rasbt/LLMs-from-scratch. Explores transformer architecture fundamentals, attention mechanisms, and autoregressive language modeling.
 
-![Keras](https://img.shields.io/badge/Keras--D00000?logo=keras&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch--EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow--FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn--F7931E?logo=scikit-learn&logoColor=white&style=flat)
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib--71D291?logo=matplotlib&logoColor=fff&style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn--0099C6?style=flat)
-![NumPy](https://img.shields.io/badge/NumPy--4DABCF?logo=numpy&logoColor=fff&style=flat)
-![Pandas](https://img.shields.io/badge/Pandas--150458?logo=pandas&logoColor=fff&style=flat)
+**[Image Classification](https://github.com/chengmarc/image-labelling)**  
+ResNet implementation for CIFAR-10/100 and ConvNet for MNIST. Exploring different CNN architectures and their performance on standard benchmark datasets.
 
-**Software-as-a-Service** 
+### Quantitative Analysis
 
-![SAP](https://img.shields.io/badge/SAP--0FAAFF?logo=sap&logoColor=fff&style=flat)
-![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure--0089D6?logo=msazure&logoColor=white&style=flat)
-![Cloudflare](https://img.shields.io/badge/Cloudflare--F38020?logo=Cloudflare&logoColor=white&style=flat)
-![Tableau](https://img.shields.io/badge/Tableau--E97627?logo=tableau&logoColor=white&style=flat)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS--%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=flat)
-![Google Colab](https://img.shields.io/badge/Google%20Colab--%23F9AB00.svg?logo=googlecolab&logoColor=white&style=flat)
-![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery--%23669DF6.svg?logo=googlebigquery&logoColor=white&style=flat)
+**[Quant Analysis Tools](https://github.com/chengmarc/quant-analysis)**  
+Collection of quantitative analysis utilities for financial data processing and modeling.
 
+**[TradingView Data Crawler](https://github.com/chengmarc/trade-scan)**  
+Automated data collection from TradingView for market analysis.
 
-## 🖥️ Projects
+**[CoinGecko Data Crawler](https://github.com/chengmarc/gecko-scan)**  
+Cryptocurrency market data aggregation and tracking.
 
-| Description                             | Link                                                   |
-|-----------------------------------------|--------------------------------------------------------|
-| State Space Model with MAMBA structure  | https://github.com/chengmarc/state-space-mamba        |
-| GPT2 Full Replication                   | https://github.com/chengmarc/gpt-replication           |
-| ResNet for CIFAR-10 and CIFAR-100       | https://github.com/chengmarc/image-labelling           |
-| ConvNet for MNIST                       | https://github.com/chengmarc/image-labelling           |
-| ECR-20 Meme Coin                        | https://github.com/chengmarc/ECR-20-memecoin           |
-| Quantitative Analysis                   | https://github.com/chengmarc/quant-analysis            |
-| Data Crawler for TradingView            | https://github.com/chengmarc/trade-scan                |
-| Data Crawler for CoinGecko              | https://github.com/chengmarc/gecko-scan                |
+### Other
 
-## 🌐 Contact
+**[ERC-20 Token](https://github.com/chengmarc/ECR-20-memecoin)**  
+Smart contract implementation exploring Ethereum token standards and deployment.
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/chengmarc)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marc-cheng/)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff&style=for-the-badge)](https://space.bilibili.com/1351785)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/marcc.cheng/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/PGE98Tu5j4)
-[![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge)](https://steamcommunity.com/id/everwith/)
+## More
+Personal Website: [chengmarc.com/main](https://chengmarc.com/main)
+
