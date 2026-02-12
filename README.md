@@ -5,7 +5,7 @@ When I'm not working: anime | gaming | travelling | rock climbing
 
 ## Current Focus
 
-Exploring **prompt engineering** and **LLM-assisted decision systems** — using language models to augment human decision-making processes. Interested in the intersection of cognitive workflows and AI reasoning capabilities.
+**Prompt engineering** and **LLM-assisted decision systems** — using language models to augment human decision-making processes. Interested in the intersection of cognitive workflows and AI reasoning capabilities.
 
 ## Research Interest
 
