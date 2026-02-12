@@ -7,7 +7,7 @@ When I'm not working: 🎬 anime | 🕹️ gaming | 🛹 skateboarding | 🧗‍
 
 Exploring **prompt engineering** and **LLM-assisted decision systems** — using language models to augment human decision-making processes. Interested in the intersection of cognitive workflows and AI reasoning capabilities.
 
-## Future Interest
+## Research Interest
 
 Investigating connections between **LLMs and Default Mode Network** — exploring parallels between AI reasoning patterns and human introspective cognition.
 
@@ -35,7 +35,6 @@ Investigating connections between **LLMs and Default Mode Network** — explorin
 ![Pandas](https://img.shields.io/badge/Pandas-34495E?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-34495E?style=flat-square&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-34495E?style=flat-square&logo=jupyter&logoColor=white)
-
 
 ## Selected Projects
 
