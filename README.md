@@ -61,5 +61,5 @@ Automated data collection from TradingView for market analysis.
 Cryptocurrency market data aggregation and tracking.
 
 ## More
-Personal Website: [chengmarc.com/main](https://chengmarc.com/main)
+Personal Website: [chengmarc.com/](https://chengmarc.com/)
 
