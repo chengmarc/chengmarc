@@ -1,6 +1,7 @@
 # Zhongmang (Marc) Cheng
 
-Math & stats (UofT, 2023). Mostly PyTorch and Python. Interested in sequence modeling and whatever sits between ML and quantitative methods.
+Math & stats (UofT, 2023). Mostly PyTorch and Python. \
+Interested in sequence modeling and whatever sits between ML and quantitative methods.
 
 Personal website: [chengmarc.com](https://chengmarc.com/)
 
