@@ -1,7 +1,8 @@
-## About Me
+# Zhongmang (Marc) Cheng
 
-Mathematics Specialist @UofT '23 | Focus: ML systems, quantitative methods\
-When I'm not working: anime | gaming | travelling | rock climbing
+I'm Zhongmang Cheng, also known as Marc Cheng (chengmarc). My work sits at the intersection of deep learning architectures, quantitative methods, and LLM systems. Currently based in Beijing.
+
+Personal website: [chengmarc.com](https://chengmarc.com/)
 
 ## Current Focus
 
@@ -9,7 +10,7 @@ When I'm not working: anime | gaming | travelling | rock climbing
 
 ## Research Interest
 
-Investigating connections between **LLMs and Default Mode Network** — exploring parallels between AI reasoning patterns and human introspective cognition.
+Investigating connections between **LLMs and the Default Mode Network** — exploring parallels between AI reasoning patterns and human introspective cognition.
 
 ## Technical Stack
 
@@ -44,7 +45,7 @@ Investigating connections between **LLMs and Default Mode Network** — explorin
 Sequence-to-sequence forecasting using state-space models. Implements log detrending and residual modeling, comparing SegRNN, LSTM, Seq2Seq, Attention, Transformer, and MambaSSM architectures on multi-feature time series data.
 
 **[GPT-2 Implementation](https://github.com/chengmarc/gpt-replication)**  
-Step-by-step GPT-2 replication following rasbt/LLMs-from-scratch. Explores transformer architecture fundamentals, attention mechanisms, and autoregressive language modeling.
+Step-by-step GPT-2 replication. Explores transformer architecture fundamentals, attention mechanisms, and autoregressive language modeling. 162M parameters, 768-dim embeddings, 12-head attention.
 
 **[Image Classification](https://github.com/chengmarc/image-labelling)**  
 ResNet implementation for CIFAR-10/100 and ConvNet for MNIST. Exploring different CNN architectures and their performance on standard benchmark datasets.
@@ -59,7 +60,3 @@ Automated data collection from TradingView for market analysis.
 
 **[CoinGecko Data Crawler](https://github.com/chengmarc/gecko-scan)**  
 Cryptocurrency market data aggregation and tracking.
-
-## More
-Personal Website: [chengmarc.com/](https://chengmarc.com/)
-
