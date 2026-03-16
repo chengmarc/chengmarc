@@ -43,7 +43,7 @@ LLMs and the Default Mode Network — whether self-referential processing in lan
 ### Deep Learning
 
 **[MambaSSM for Time Series Forecasting](https://github.com/chengmarc/state-space-mamba)**  
-Sequence-to-sequence forecasting on multi-feature time series. Detrending pipeline: logarithmic trend extraction via non-linear least squares, residual forecasting, inverse reconstruction. Benchmarks six architectures: SegRNN, LSTM, Seq2Seq LSTM, Attention LSTM, Transformer, and MambaSSM (selective SSM with dual-branch projection, depthwise convolution, SiLU gating). MambaSSM achieved best performance across all tested configurations. (PyTorch)
+Sequence-to-sequence 30-day forecasting on multi-feature on-chain data (PyTorch). Targets the lag-1 degeneracy problem in financial forecasting via three mechanisms: logarithmic detrending to remove autocorrelation, multi-feature on-chain inputs to impose orthogonal constraints, and MambaSSM's selective state gating to prevent trivial state copying. Benchmarks six architectures: SegRNN, LSTM, Seq2Seq LSTM, Attention LSTM, Transformer, MambaSSM (selective SSM with dual-branch projection, depthwise convolution, SiLU gating) — with MambaSSM achieving best performance and strongest resistance to lag-1 degeneracy.
 
 **[GPT-2 Replication](https://github.com/chengmarc/gpt-replication)**  
 From-scratch replication of GPT-2. 162M parameters, 768-dim embeddings, 12 heads, 12 layers. Architecture details: learned positional embeddings, pre-LayerNorm placement, GELU with tanh approximation, causal masking via $-\infty$ pre-softmax. Tokenization via BPE (`tiktoken`, gpt2 vocab). Trained on the Harry Potter corpus with AdamW (lr=4e-4, weight decay=0.1), cross-entropy next-token prediction objective. (PyTorch)
