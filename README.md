@@ -40,6 +40,11 @@ LLMs and the Default Mode Network — whether self-referential processing in lan
 
 ## Projects
 
+### Data Engineering
+ 
+**[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)**  
+Offline data warehouse for financial transaction fraud detection, built on PySpark + Hive + Hadoop. Ingests 6.3M PaySim transactions from HDFS, applies a 3-layer architecture (ODS → DWD → ADS): raw transactions partitioned by type, a cleaned detail layer with derived features (large-amount flag, balance-zero-out flag) partitioned by type × day in ORC + Snappy, and two aggregation tables — per-type fraud rate by day and a high-risk account registry filtered on large-amount + balance-zero-out patterns. Full pipeline implemented across three PySpark scripts (`01_ingest`, `02_transform`, `03_aggregate`).
+
 ### Deep Learning
 
 **[MambaSSM for Time Series Forecasting](https://github.com/chengmarc/state-space-mamba)**  
