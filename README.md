@@ -56,7 +56,7 @@ From-scratch replication of GPT-2. 162M parameters, 768-dim embeddings, 12 heads
 **[Image Classification](https://github.com/chengmarc/image-labelling)**  
 ConvNet on MNIST/EMNIST; ResNet-34 and ResNet-101 on CIFAR-10/100. ResNet-34 uses basic blocks (two 3×3 convolutions), ResNet-101 uses bottleneck blocks (1×1 → 3×3 → 1×1). Core focus: how identity shortcut connections and network depth interact across datasets of varying difficulty. (PyTorch)
 
-### Quantitative & Data
+### Quantitative
 
 **[Quant Analysis Tools](https://github.com/chengmarc/quant-analysis)**  
 Five modules, each self-contained:
@@ -65,9 +65,3 @@ Five modules, each self-contained:
 - `exponential-DCA/` — DCA strategy using volatility-normalized residuals
 - `random_walk_interval.py` — BTC price simulation segmented by halving cycles
 - `UTXO.ipynb` — on-chain indicator analysis
-
-**[Market Data Crawlers](https://github.com/chengmarc/trade-scan)**  
-Three separate scrapers: TradingView ([trade-scan](https://github.com/chengmarc/trade-scan)), CoinGecko ([gecko-scan](https://github.com/chengmarc/gecko-scan)), CoinMarketCap ([cmcs](https://github.com/chengmarc/cmcs)). Built to feed the quant work above.
-
-**[ECR-20 Memecoin](https://github.com/chengmarc/ECR-20-memecoin)**  
-ERC-20 implementation in Solidity.
