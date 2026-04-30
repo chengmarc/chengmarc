@@ -1,13 +1,6 @@
 # Zhongmang (Marc) Cheng
 
-Math & stats (UofT, 2023). Mostly PyTorch and Python. \
-Interested in sequence modeling and whatever sits between ML and quantitative methods.
-
-Personal website: [chengmarc.com](https://chengmarc.com/)
-
-## Research Interest
-
-LLMs and the Default Mode Network — whether self-referential processing in language models has meaningful structural parallels to introspective cognition. No strong claims yet.
+Math & stats (UofT, 2023). Mostly PyTorch and Python. Personal website: [chengmarc.com](https://chengmarc.com/)
 
 ## Technical Stack
 
@@ -41,22 +34,25 @@ LLMs and the Default Mode Network — whether self-referential processing in lan
 ## Projects
 
 ### Data Engineering
- 
+
+**[WeChat Export Tool](https://github.com/chengmarc/wechat-to-LLM)**  
+Agent-oriented export pipeline for WeChat chat histories (Python + SQL). Interfaces with `ylytdeng/wechat-decrypt` for decryption, supports both 1-on-1 and group conversations, and outputs LLM-readable compressed text. Table schema reverse-engineered independently.
+
 **[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)**  
-Offline data warehouse for financial transaction fraud detection, built on PySpark + Hive + Hadoop. Ingests 6.3M PaySim transactions from HDFS, applies a 3-layer architecture (ODS → DWD → ADS): raw transactions partitioned by type, a cleaned detail layer with derived features (large-amount flag, balance-zero-out flag) partitioned by type × day in ORC + Snappy, and two aggregation tables — per-type fraud rate by day and a high-risk account registry filtered on large-amount + balance-zero-out patterns. Full pipeline implemented across three PySpark scripts (`01_ingest`, `02_transform`, `03_aggregate`).
+Offline data warehouse for fraud detection on 6.3M PaySim transactions, built on PySpark + Hive + Hadoop. 3-layer architecture (ODS → DWD → ADS): DWD uses ORC + Snappy with derived fraud features; ADS outputs per-type fraud rates and a high-risk account registry.
 
 ### Deep Learning
 
 **[MambaSSM for Time Series Forecasting](https://github.com/chengmarc/state-space-mamba)**  
-Sequence-to-sequence 30-day forecasting on multi-feature on-chain data (PyTorch). Targets the lag-1 degeneracy problem in financial forecasting via three mechanisms: logarithmic detrending to remove autocorrelation, multi-feature on-chain inputs to impose orthogonal constraints, and MambaSSM's selective state gating to prevent trivial state copying. Benchmarks six architectures: SegRNN, LSTM, Seq2Seq LSTM, Attention LSTM, Transformer, MambaSSM (selective SSM with dual-branch projection, depthwise convolution, SiLU gating) — with MambaSSM achieving best performance and strongest resistance to lag-1 degeneracy.
+Sequence-to-sequence 30-day forecasting on multi-feature on-chain data (PyTorch). Addresses lag-1 degeneracy via logarithmic detrending, orthogonal multi-feature inputs, and MambaSSM's selective state gating. Benchmarks six architectures — MambaSSM achieves best performance and strongest resistance to trivial state copying.
 
 **[GPT-2 Replication](https://github.com/chengmarc/gpt-replication)**  
-From-scratch replication of GPT-2. 162M parameters, 768-dim embeddings, 12 heads, 12 layers. Architecture details: learned positional embeddings, pre-LayerNorm placement, GELU with tanh approximation, causal masking via $-\infty$ pre-softmax. Tokenization via BPE (`tiktoken`, gpt2 vocab). Trained on the Harry Potter corpus with AdamW (lr=4e-4, weight decay=0.1), cross-entropy next-token prediction objective. (PyTorch)
+From-scratch replication of GPT-2, based on `rasbt/LLMs-from-scratch`. 162M parameters, 768-dim embeddings, 12 heads, 12 layers. Architecture details: learned positional embeddings, pre-LayerNorm placement, GELU with tanh approximation, causal masking via $-\infty$ pre-softmax. Tokenization via BPE (`tiktoken`, gpt2 vocab). Trained on the Harry Potter corpus with AdamW (lr=4e-4, weight decay=0.1), cross-entropy next-token prediction objective. (PyTorch)
 
 **[Image Classification](https://github.com/chengmarc/image-labelling)**  
 ConvNet on MNIST/EMNIST; ResNet-34 and ResNet-101 on CIFAR-10/100. ResNet-34 uses basic blocks (two 3×3 convolutions), ResNet-101 uses bottleneck blocks (1×1 → 3×3 → 1×1). Core focus: how identity shortcut connections and network depth interact across datasets of varying difficulty. (PyTorch)
 
-### Quantitative
+### Blockchain
 
 **[Quant Analysis Tools](https://github.com/chengmarc/quant-analysis)**  
 Five modules, each self-contained:
@@ -65,3 +61,6 @@ Five modules, each self-contained:
 - `exponential-DCA/` — DCA strategy using volatility-normalized residuals
 - `random_walk_interval.py` — BTC price simulation segmented by halving cycles
 - `UTXO.ipynb` — on-chain indicator analysis
+
+**[ERC-20 Memecoin](https://github.com/chengmarc/ECR-20-memecoin)**  
+ERC-20 token implementation in Solidity with full deployment to Ethereum mainnet. Covers contract structure, token mechanics, and the end-to-end on-chain deployment workflow.
