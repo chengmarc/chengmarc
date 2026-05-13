@@ -33,26 +33,10 @@ Math & stats (UofT, 2023). Mostly PyTorch and Python. Personal website: [chengma
 
 ## Projects
 
-### Data Engineering
-
-**[WeChat Export Tool](https://github.com/chengmarc/wechat-to-LLM)**  
-Agent-oriented export pipeline for WeChat chat histories (Python + SQL). Interfaces with `ylytdeng/wechat-decrypt` for decryption, supports both 1-on-1 and group conversations, and outputs LLM-readable compressed text. Table schema reverse-engineered independently.
-
-**[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)**  
-Offline data warehouse for fraud detection on 6.3M PaySim transactions, built on PySpark + Hive + Hadoop. 3-layer architecture (ODS → DWD → ADS): DWD uses ORC + Snappy with derived fraud features; ADS outputs per-type fraud rates and a high-risk account registry.
-
-### Deep Learning
+### Blockchain
 
 **[MambaSSM for Time Series Forecasting](https://github.com/chengmarc/state-space-mamba)**  
 Sequence-to-sequence 30-day forecasting on multi-feature on-chain data (PyTorch). Addresses lag-1 degeneracy via logarithmic detrending, orthogonal multi-feature inputs, and MambaSSM's selective state gating. Benchmarks six architectures — MambaSSM achieves best performance and strongest resistance to trivial state copying.
-
-**[GPT-2 Replication](https://github.com/chengmarc/gpt-replication)**  
-From-scratch replication of GPT-2, based on `rasbt/LLMs-from-scratch`. 162M parameters, 768-dim embeddings, 12 heads, 12 layers. Architecture details: learned positional embeddings, pre-LayerNorm placement, GELU with tanh approximation, causal masking via $-\infty$ pre-softmax. Tokenization via BPE (`tiktoken`, gpt2 vocab). Trained on the Harry Potter corpus with AdamW (lr=4e-4, weight decay=0.1), cross-entropy next-token prediction objective. (PyTorch)
-
-**[Image Classification](https://github.com/chengmarc/image-labelling)**  
-ConvNet on MNIST/EMNIST; ResNet-34 and ResNet-101 on CIFAR-10/100. ResNet-34 uses basic blocks (two 3×3 convolutions), ResNet-101 uses bottleneck blocks (1×1 → 3×3 → 1×1). Core focus: how identity shortcut connections and network depth interact across datasets of varying difficulty. (PyTorch)
-
-### Blockchain
 
 **[Quant Analysis Tools](https://github.com/chengmarc/quant-analysis)**  
 Five modules, each self-contained:
@@ -64,3 +48,19 @@ Five modules, each self-contained:
 
 **[ERC-20 Memecoin](https://github.com/chengmarc/ECR-20-memecoin)**  
 ERC-20 token implementation in Solidity with full deployment to Ethereum mainnet. Covers contract structure, token mechanics, and the end-to-end on-chain deployment workflow.
+
+### Data Engineering
+
+**[WeChat Export Tool](https://github.com/chengmarc/wechat-to-LLM)**  
+Agent-oriented export pipeline for WeChat chat histories (Python + SQL). Interfaces with `ylytdeng/wechat-decrypt` for decryption, supports both 1-on-1 and group conversations, and outputs LLM-readable compressed text. Table schema reverse-engineered independently.
+
+**[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)**  
+Offline data warehouse for fraud detection on 6.3M PaySim transactions, built on PySpark + Hive + Hadoop. 3-layer architecture (ODS → DWD → ADS): DWD uses ORC + Snappy with derived fraud features; ADS outputs per-type fraud rates and a high-risk account registry.
+
+### Deep Learning
+
+**[GPT-2 Replication](https://github.com/chengmarc/gpt-replication)**  
+From-scratch replication of GPT-2, based on `rasbt/LLMs-from-scratch`. 162M parameters, 768-dim embeddings, 12 heads, 12 layers. Architecture details: learned positional embeddings, pre-LayerNorm placement, GELU with tanh approximation, causal masking via $-\infty$ pre-softmax. Tokenization via BPE (`tiktoken`, gpt2 vocab). Trained on the Harry Potter corpus with AdamW (lr=4e-4, weight decay=0.1), cross-entropy next-token prediction objective. (PyTorch)
+
+**[Image Classification](https://github.com/chengmarc/image-labelling)**  
+ConvNet on MNIST/EMNIST; ResNet-34 and ResNet-101 on CIFAR-10/100. ResNet-34 uses basic blocks (two 3×3 convolutions), ResNet-101 uses bottleneck blocks (1×1 → 3×3 → 1×1). Core focus: how identity shortcut connections and network depth interact across datasets of varying difficulty. (PyTorch)
