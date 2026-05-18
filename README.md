@@ -1,6 +1,6 @@
 # Zhongmang (Marc) Cheng
 
-Math & stats (UofT, 2023). Mostly PyTorch and Python. Personal website: [chengmarc.com](https://chengmarc.com/)
+Mathematics (UofT, 2023). Mostly PyTorch and Python. Personal website: [chengmarc.com](https://chengmarc.com/)
 
 ## Technical Stack
 
@@ -33,6 +33,14 @@ Math & stats (UofT, 2023). Mostly PyTorch and Python. Personal website: [chengma
 
 ## Projects
 
+### Data Engineering
+
+**[WeChat Export Tool](https://github.com/chengmarc/wechat-to-LLM)**  
+Agent-oriented export pipeline for WeChat chat histories (Python + SQL). Interfaces with `ylytdeng/wechat-decrypt` for decryption, supports both 1-on-1 and group conversations, and outputs LLM-readable compressed text. Table schema reverse-engineered independently.
+
+**[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)**  
+Offline data warehouse for fraud detection on 6.3M PaySim transactions, built on PySpark + Hive + Hadoop. 3-layer architecture (ODS → DWD → ADS): DWD uses ORC + Snappy with derived fraud features; ADS outputs per-type fraud rates and a high-risk account registry.
+
 ### Blockchain
 
 **[MambaSSM for Time Series Forecasting](https://github.com/chengmarc/state-space-mamba)**  
@@ -48,14 +56,6 @@ Five modules, each self-contained:
 
 **[ERC-20 Memecoin](https://github.com/chengmarc/ECR-20-memecoin)**  
 ERC-20 token implementation in Solidity with full deployment to Ethereum mainnet. Covers contract structure, token mechanics, and the end-to-end on-chain deployment workflow.
-
-### Data Engineering
-
-**[WeChat Export Tool](https://github.com/chengmarc/wechat-to-LLM)**  
-Agent-oriented export pipeline for WeChat chat histories (Python + SQL). Interfaces with `ylytdeng/wechat-decrypt` for decryption, supports both 1-on-1 and group conversations, and outputs LLM-readable compressed text. Table schema reverse-engineered independently.
-
-**[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)**  
-Offline data warehouse for fraud detection on 6.3M PaySim transactions, built on PySpark + Hive + Hadoop. 3-layer architecture (ODS → DWD → ADS): DWD uses ORC + Snappy with derived fraud features; ADS outputs per-type fraud rates and a high-risk account registry.
 
 ### Deep Learning
 
