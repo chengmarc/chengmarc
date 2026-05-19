@@ -1,7 +1,5 @@
 # Zhongmang (Marc) Cheng
 
-Mathematics (UofT, 2023). Mostly PyTorch and Python. Personal website: [chengmarc.com](https://chengmarc.com/)
-
 ## Technical Stack
 
 **Languages & Tools**
