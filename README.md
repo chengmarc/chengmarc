@@ -74,23 +74,15 @@ Agent-oriented export pipeline for WeChat chat histories (Python + SQL). Interfa
 **[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)**  
 Offline data warehouse for fraud detection on 6.3M PaySim transactions, built on PySpark + Hive + Hadoop. 3-layer architecture (ODS → DWD → ADS): DWD uses ORC + Snappy with derived fraud features; ADS outputs per-type fraud rates and a high-risk account registry.
 
-### Blockchain
+### Quantitative Finance
 
-**[MambaSSM for Time Series Forecasting](https://github.com/chengmarc/state-space-mamba)**  
+**[MambaSSM for Time Series Forecasting](https://github.com/CDS/state-space-mamba)**  
 Sequence-to-sequence 30-day forecasting on multi-feature on-chain data (PyTorch). Addresses lag-1 degeneracy via logarithmic detrending, orthogonal multi-feature inputs, and MambaSSM's selective state gating. Benchmarks six architectures — MambaSSM achieves best performance and strongest resistance to trivial state copying.
 
-**[Quant Analysis Tools](https://github.com/chengmarc/quant-analysis)**  
-Five modules, each self-contained:
-- `overview/` — market statistics and Monte Carlo simulation across 28,000 CoinGecko coins
-- `binance/` — live trading framework via Binance REST API
-- `exponential-DCA/` — DCA strategy using volatility-normalized residuals
-- `random_walk_interval.py` — BTC price simulation segmented by halving cycles
-- `UTXO.ipynb` — on-chain indicator analysis
+**[Winrate Matrix](https://github.com/CDS-SP/winrate-matrix)**
+Agentic, fully automatic pipeline that batch-tests empirical win rate on ANY condition and ANY financial asset. For each feature/horizon condition it counts `P(up | condition) − P(up)` straight from history, recovers local edges by differencing the conditional CDF into a PDF, and reduces one node per family to a single estimate via shrinkage-weighted Naive Bayes. Plugin/registry architecture — new assets, features, and data sources drop in with zero engine changes; ships BTC-daily and NASDAQ-hourly workspaces as illustrative examples with a walk-forward backtest.
 
-**[ERC-20 Memecoin](https://github.com/chengmarc/ECR-20-memecoin)**  
-ERC-20 token implementation in Solidity with full deployment to Ethereum mainnet. Covers contract structure, token mechanics, and the end-to-end on-chain deployment workflow.
-
-### Deep Learning
+### Machine Learning
 
 **[GPT-2 Replication](https://github.com/chengmarc/gpt-replication)**  
 From-scratch replication of GPT-2, based on `rasbt/LLMs-from-scratch`. 162M parameters, 768-dim embeddings, 12 heads, 12 layers. Architecture details: learned positional embeddings, pre-LayerNorm placement, GELU with tanh approximation, causal masking via $-\infty$ pre-softmax. Tokenization via BPE (`tiktoken`, gpt2 vocab). Trained on the Harry Potter corpus with AdamW (lr=4e-4, weight decay=0.1), cross-entropy next-token prediction objective. (PyTorch)
