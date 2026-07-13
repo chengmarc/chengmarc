@@ -76,7 +76,7 @@ Offline data warehouse for fraud detection on 6.3M PaySim transactions, built on
 
 ### Quantitative Finance
 
-**[MambaSSM for Time Series Forecasting](https://github.com/CDS/state-space-mamba)**  
+**[MambaSSM for Time Series Forecasting](https://github.com/CDS-SP/state-space-mamba)**  
 Sequence-to-sequence 30-day forecasting on multi-feature on-chain data (PyTorch). Addresses lag-1 degeneracy via logarithmic detrending, orthogonal multi-feature inputs, and MambaSSM's selective state gating. Benchmarks six architectures — MambaSSM achieves best performance and strongest resistance to trivial state copying.
 
 **[Winning-Condition Pipeline on Financial Assets](https://github.com/CDS-SP/winrate-matrix)**  
