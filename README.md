@@ -1,31 +1,65 @@
-# Zhongmang (Marc) Cheng
-
 ## Technical Stack
 
-**Languages & Tools**
+<table>
+<tr><td>Machine Learning</td><td>
 
-[![Python](https://img.shields.io/badge/Python-2C3E50?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-2C3E50?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-2C3E50?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-2C3E50?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-2C3E50?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-2C3E50?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Bash](https://img.shields.io/badge/Bash-2C3E50?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Git](https://img.shields.io/badge/Git-2C3E50?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![LaTeX](https://img.shields.io/badge/LaTeX-2C3E50?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
-[![Markdown](https://img.shields.io/badge/Markdown-2C3E50?style=flat-square&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Solidity](https://img.shields.io/badge/Solidity-2C3E50?style=flat-square&logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![Python](https://img.shields.io/badge/Python-34495E?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) 
+[![PyTorch](https://img.shields.io/badge/PyTorch-34495E?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) 
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-34495E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) 
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-34495E?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) 
+[![CUDA](https://img.shields.io/badge/CUDA-34495E?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 
-**Machine Learning / Data**
+</td></tr>
+<tr><td>Data Science</td><td>
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-34495E?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-34495E?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-34495E?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-34495E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-34495E?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![R](https://img.shields.io/badge/R-34495E?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/) 
+[![Jupyter](https://img.shields.io/badge/Jupyter-34495E?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/) 
+[![NumPy](https://img.shields.io/badge/NumPy-34495E?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/) 
 [![Pandas](https://img.shields.io/badge/Pandas-34495E?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-34495E?style=flat-square&logoColor=white)](https://matplotlib.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-34495E?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+</td></tr>
+<tr><td>Big Data</td><td>
+
+[![Java](https://img.shields.io/badge/Java-34495E?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/) 
+[![Apache Hadoop](https://img.shields.io/badge/Hadoop-34495E?style=flat-square&logo=apachehadoop&logoColor=white)](https://hadoop.apache.org/) 
+[![Apache Hive](https://img.shields.io/badge/Hive-34495E?style=flat-square&logo=apachehive&logoColor=white)](https://hive.apache.org/) 
+[![PySpark](https://img.shields.io/badge/PySpark-34495E?style=flat-square&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
+
+</td></tr>
+<tr><td>Client-side</td><td>
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-34495E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![Node.js](https://img.shields.io/badge/Node.js-34495E?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) 
+[![HTML5](https://img.shields.io/badge/HTML5-34495E?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS3](https://img.shields.io/badge/CSS3-34495E?style=flat-square&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-34495E?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+
+</td></tr>
+<tr><td>Server-side</td><td>
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-34495E?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
+[![SQLite](https://img.shields.io/badge/SQLite-34495E?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/) 
+[![MySQL](https://img.shields.io/badge/MySQL-34495E?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+[![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-34495E?style=flat-square&logo=cloudflareworkers&logoColor=white)](https://workers.cloudflare.com/)
+
+</td></tr>
+<tr><td>Package Management</td><td>
+
+[![pip](https://img.shields.io/badge/pip-34495E?style=flat-square&logo=pypi&logoColor=white)](https://pip.pypa.io/) 
+[![conda](https://img.shields.io/badge/conda-34495E?style=flat-square&logo=anaconda&logoColor=white)](https://docs.conda.io/) 
+[![nvm](https://img.shields.io/badge/nvm-34495E?style=flat-square&logo=nvm&logoColor=white)](https://github.com/nvm-sh/nvm) 
+[![npm](https://img.shields.io/badge/npm-34495E?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
+
+</td></tr>
+<tr><td>CLI & Markups</td><td>
+
+[![Bash](https://img.shields.io/badge/Bash-34495E?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) 
+[![Git](https://img.shields.io/badge/Git-34495E?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) 
+[![LaTeX](https://img.shields.io/badge/LaTeX-34495E?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/) 
+[![Markdown](https://img.shields.io/badge/Markdown-34495E?style=flat-square&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+
+</td></tr>
+</table>
 
 **Favorite Editors:** Notepad++, Spyder
 
