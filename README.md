@@ -1,4 +1,4 @@
-## Technical Stack
+## 1️⃣ Technical Stack
 
 <table>
 <tr><td>Machine Learning</td><td>
@@ -63,7 +63,7 @@
 
 **Favorite Editors:** Notepad++, Spyder
 
-## Projects
+## 2️⃣ Recent Projects
 
 ### Data Engineering
 
