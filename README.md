@@ -80,7 +80,7 @@ Offline data warehouse for fraud detection on 6.3M PaySim transactions, built on
 Sequence-to-sequence 30-day forecasting on multi-feature on-chain data (PyTorch). Addresses lag-1 degeneracy via logarithmic detrending, orthogonal multi-feature inputs, and MambaSSM's selective state gating. Benchmarks six architectures — MambaSSM achieves best performance and strongest resistance to trivial state copying.
 
 **[Winning-Condition Pipeline on Financial Assets](https://github.com/CDS-SP/winrate-matrix)**  
-Agentic, fully automatic pipeline that batch-tests empirical win rate on ANY condition and ANY financial asset. For each feature/horizon condition it counts `P(up | condition) − P(up)` straight from history, recovers local edges by differencing the conditional CDF into a PDF, and reduces one node per family to a single estimate via shrinkage-weighted Naive Bayes. Plugin/registry architecture — new assets, features, and data sources drop in with zero engine changes; ships BTC-daily and NASDAQ-hourly workspaces as illustrative examples with a walk-forward backtest.
+Agentic, fully automatic pipeline that batch-tests empirical win rate on ANY condition and ANY financial asset. For each feature/horizon condition it counts `P(up | condition) − P(up)` straight from history, recovers local edges by differencing the conditional CDF into a PDF, and reduces one node per family to a single estimate via shrinkage-weighted Naive Bayes. Ships BTC-daily and NASDAQ-hourly workspaces as illustrative examples with a walk-forward backtest.
 
 ### Machine Learning
 
