@@ -62,7 +62,7 @@
 </td></tr>
 </table>
 
-**Favorite Editors:** Notepad++, Spyder
+**Favorite Editors:** Notepad++, VS Code
 
 ## 2️⃣ Recent Projects
 
