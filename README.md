@@ -14,6 +14,7 @@
 
 [![R](https://img.shields.io/badge/R-34495E?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/) 
 [![Jupyter](https://img.shields.io/badge/Jupyter-34495E?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/) 
+[![SciPy](https://img.shields.io/badge/SciPy-34495E?style=flat-square&logo=scipy&logoColor=white)](https://scipy.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-34495E?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/) 
 [![Pandas](https://img.shields.io/badge/Pandas-34495E?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
