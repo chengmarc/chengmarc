@@ -68,20 +68,20 @@
 
 ## 2️⃣ Recent Projects
 
-**[Winning-Condition Pipeline on Financial Assets](https://github.com/CDS-SP/winrate-matrix)** <img alt="Finance" src="https://img.shields.io/badge/Finance-4E6E8E?style=flat-square" align="absmiddle">  
+**[Winning-Condition Pipeline on Financial Assets](https://github.com/CDS-SP/winrate-matrix)** ⠀<img alt="Finance" src="https://img.shields.io/badge/Finance-4E6E8E?style=flat-square" align="absmiddle">  
 Agentic, fully automatic pipeline that batch-tests empirical win rate on ANY condition and ANY financial asset. Counts `P(up | condition) − P(up)` straight from history, differences the conditional CDF into a PDF to recover local edges, and reduces each family via shrinkage-weighted Naive Bayes.
 
-**[WeChat Export Tool](https://github.com/chengmarc/wechat-to-LLM)** <img alt="Data Engineering" src="https://img.shields.io/badge/Data_Engineering-C49A3D?style=flat-square" align="absmiddle">  
+**[WeChat Export Tool](https://github.com/chengmarc/wechat-to-LLM)** ⠀<img alt="Data Engineering" src="https://img.shields.io/badge/Data_Engineering-C49A3D?style=flat-square" align="absmiddle">  
 Agent-oriented export pipeline for WeChat chat histories (Python + SQL). Interfaces with `ylytdeng/wechat-decrypt` for decryption, supports both 1-on-1 and group conversations, and outputs LLM-readable compressed text. Table schema reverse-engineered independently.
 
-**[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)** <img alt="Data Engineering" src="https://img.shields.io/badge/Data_Engineering-C49A3D?style=flat-square" align="absmiddle"> <img alt="Finance" src="https://img.shields.io/badge/Finance-4E6E8E?style=flat-square" align="absmiddle">  
+**[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)** ⠀<img alt="Data Engineering" src="https://img.shields.io/badge/Data_Engineering-C49A3D?style=flat-square" align="absmiddle">⠀<img alt="Finance" src="https://img.shields.io/badge/Finance-4E6E8E?style=flat-square" align="absmiddle">  
 Offline data warehouse for fraud detection on 6.3M PaySim transactions, built on PySpark + Hive + Hadoop. 3-layer architecture (ODS → DWD → ADS): DWD uses ORC + Snappy with derived fraud features; ADS outputs per-type fraud rates and a high-risk account registry.
 
-**[MambaSSM for Time Series Forecasting](https://github.com/CDS-SP/state-space-mamba)** <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle"> <img alt="Finance" src="https://img.shields.io/badge/Finance-4E6E8E?style=flat-square" align="absmiddle">  
+**[MambaSSM for Time Series Forecasting](https://github.com/CDS-SP/state-space-mamba)** ⠀<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle">⠀<img alt="Finance" src="https://img.shields.io/badge/Finance-4E6E8E?style=flat-square" align="absmiddle">  
 Sequence-to-sequence 30-day forecasting on multi-feature on-chain data (PyTorch). Addresses lag-1 degeneracy via logarithmic detrending, orthogonal multi-feature inputs, and MambaSSM's selective state gating. Benchmarks six architectures — MambaSSM achieves best performance and strongest resistance to trivial state copying.
 
-**[GPT-2 Replication](https://github.com/chengmarc/gpt-replication)** <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle">  
+**[GPT-2 Replication](https://github.com/chengmarc/gpt-replication)** ⠀<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle">  
 From-scratch replication of GPT-2 (162M params, 768-dim embeddings, 12 heads, 12 layers), based on `rasbt/LLMs-from-scratch`. Learned positional embeddings, pre-LayerNorm, GELU activation, causal masking, and BPE tokenization via `tiktoken`. Trained on the Harry Potter corpus with AdamW and a cross-entropy next-token objective. (PyTorch)
 
-**[Image Classification](https://github.com/chengmarc/image-labelling)** <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle">  
+**[Image Classification](https://github.com/chengmarc/image-labelling)** ⠀<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle">  
 ConvNet on MNIST/EMNIST; ResNet-34 and ResNet-101 on CIFAR-10/100. ResNet-34 uses basic blocks (two 3×3 convolutions), ResNet-101 uses bottleneck blocks (1×1 → 3×3 → 1×1). Core focus: how identity shortcut connections and network depth interact across datasets of varying difficulty. (PyTorch)
