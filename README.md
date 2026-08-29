@@ -69,8 +69,8 @@
 ### **[Winning-Condition Pipeline on Financial Assets](https://github.com/CDS-SP/winrate-matrix)** ⠀<img alt="Finance" src="https://img.shields.io/badge/Finance-20397E?style=flat-square" align="absmiddle">
 Agentic, fully automatic pipeline that batch-tests empirical win rate on ANY condition and ANY financial asset. Counts `P(up | condition) − P(up)` straight from history, differences the conditional CDF into a PDF to recover local edges, and reduces each family via shrinkage-weighted Naive Bayes.
 
-### **[WeChat Export Tool](https://github.com/chengmarc/wechat-to-LLM)** ⠀<img alt="Data Engineering" src="https://img.shields.io/badge/Data_Engineering-C49A3D?style=flat-square" align="absmiddle">
-Agent-oriented export pipeline for WeChat chat histories (Python + SQL). Interfaces with `ylytdeng/wechat-decrypt` for decryption, supports both 1-on-1 and group conversations, and outputs LLM-readable compressed text. Table schema reverse-engineered independently.
+### **[WeChat Export Tool](https://github.com/chengmarc/wechat-to-ai)** ⠀<img alt="Data Engineering" src="https://img.shields.io/badge/Data_Engineering-C49A3D?style=flat-square" align="absmiddle">
+Agent-oriented export pipeline for WeChat chat histories (Python + SQL). Supports both 1-on-1 and group conversations, and outputs LLM-readable compressed text. Table schema reverse-engineered independently.
 
 ### **[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)** ⠀<img alt="Data Engineering" src="https://img.shields.io/badge/Data_Engineering-C49A3D?style=flat-square" align="absmiddle">⠀<img alt="Finance" src="https://img.shields.io/badge/Finance-20397E?style=flat-square" align="absmiddle">
 Offline data warehouse for fraud detection on 6.3M PaySim transactions, built on PySpark + Hive + Hadoop. 3-layer architecture (ODS → DWD → ADS): DWD uses ORC + Snappy with derived fraud features; ADS outputs per-type fraud rates and a high-risk account registry.
