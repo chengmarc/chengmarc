@@ -21,7 +21,6 @@
 </td></tr>
 <tr><td>Big Data</td><td>
 
-[![Java](https://img.shields.io/badge/Java-46637F?logo=openjdk&logoColor=white)](https://www.java.com/) 
 [![Apache Hadoop](https://img.shields.io/badge/Hadoop-46637F?logo=apachehadoop&logoColor=white)](https://hadoop.apache.org/) 
 [![Apache Hive](https://img.shields.io/badge/Hive-46637F?logo=apachehive&logoColor=white)](https://hive.apache.org/) 
 [![PySpark](https://img.shields.io/badge/PySpark-46637F?logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
@@ -64,22 +63,22 @@
 
 **Favorite Editors:** Notepad++, VS Code
 
-## 2️⃣ Recent Projects
+## 2️⃣ Selected Work
 
-### **[Winning-Condition Pipeline on Financial Assets](https://github.com/CDS-SP/winrate-matrix)** ⠀<img alt="Finance" src="https://img.shields.io/badge/Finance-20397E?style=flat-square" align="absmiddle">
-Agentic, fully automatic pipeline that batch-tests empirical win rate on ANY condition and ANY financial asset. Counts `P(up | condition) − P(up)` straight from history, differences the conditional CDF into a PDF to recover local edges, and reduces each family via shrinkage-weighted Naive Bayes.
+### [AlphaVerify — Trading-Signal Validation Framework](https://github.com/doubletrends/alpha-verify) ⠀<img alt="Finance" src="https://img.shields.io/badge/Finance-20397E?style=flat-square" align="absmiddle">⠀<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle">
+Checks whether trading signals actually work. It measures how often price moves ±X% within N days under each indicator condition, then compares that against 1,000 simulated random markets. On NASDAQ, 25 of 552 conditions passed. Pure chance would give you 27.6.
 
-### **[WeChat Export Tool](https://github.com/chengmarc/wechat-to-ai)** ⠀<img alt="Data Engineering" src="https://img.shields.io/badge/Data_Engineering-C49A3D?style=flat-square" align="absmiddle">
-Agent-oriented export pipeline for WeChat chat histories (Python + SQL). Supports both 1-on-1 and group conversations, and outputs LLM-readable compressed text. Table schema reverse-engineered independently.
+### [Minecraft CityGen — Customizable AI City Generator](https://github.com/chengmarc/minecraft-citygen) ⠀<img alt="Software" src="https://img.shields.io/badge/Software-5A6B7A?style=flat-square" align="absmiddle">
+Turns your own Minecraft builds into a whole city. You mark buildings in-game with a few special blocks, the app lays out roads and places buildings from a seed, then writes the city back into a playable world. Windows app with an installer.
 
-### **[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)** ⠀<img alt="Data Engineering" src="https://img.shields.io/badge/Data_Engineering-C49A3D?style=flat-square" align="absmiddle">⠀<img alt="Finance" src="https://img.shields.io/badge/Finance-20397E?style=flat-square" align="absmiddle">
-Offline data warehouse for fraud detection on 6.3M PaySim transactions, built on PySpark + Hive + Hadoop. 3-layer architecture (ODS → DWD → ADS): DWD uses ORC + Snappy with derived fraud features; ADS outputs per-type fraud rates and a high-risk account registry.
+### [WeChat Skill — Agentic AI Plugin](https://github.com/chengmarc/wechat-to-ai) ⠀<img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-2E7D6B?style=flat-square" align="absmiddle">⠀<img alt="Data Engineering" src="https://img.shields.io/badge/Data_Engineering-C49A3D?style=flat-square" align="absmiddle">
+A Claude Code plugin that exports your WeChat history for AI to read. It reads from the local databases on your own machine and turns private and group chats into plain text an LLM can work with. Nothing leaves your computer.
 
-### **[MambaSSM for Time Series Forecasting](https://github.com/CDS-SP/state-space-mamba)** ⠀<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle">⠀<img alt="Finance" src="https://img.shields.io/badge/Finance-20397E?style=flat-square" align="absmiddle">
-Sequence-to-sequence 30-day forecasting on multi-feature on-chain data (PyTorch). Addresses lag-1 degeneracy via logarithmic detrending, orthogonal multi-feature inputs, and MambaSSM's selective state gating. Benchmarks six architectures — MambaSSM achieves best performance and strongest resistance to trivial state copying.
+### [Mamba State-Space Forecaster](https://github.com/doubletrends/state-space-mamba) ⠀<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle">⠀<img alt="Finance" src="https://img.shields.io/badge/Finance-20397E?style=flat-square" align="absmiddle">
+Mamba written from scratch in PyTorch, without the mamba-ssm library, and used to forecast Bitcoin. Compared against LSTM, SegRNN and Transformer models with walk-forward testing, so no model ever sees future data.
 
-### **[GPT-2 Replication](https://github.com/chengmarc/gpt-replication)** ⠀<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle">
-From-scratch replication of GPT-2 (162M params, 768-dim embeddings, 12 heads, 12 layers), based on `rasbt/LLMs-from-scratch`. Learned positional embeddings, pre-LayerNorm, GELU activation, causal masking, and BPE tokenization via `tiktoken`. Trained on the Harry Potter corpus with AdamW and a cross-entropy next-token objective.
+### [PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw) ⠀<img alt="Data Engineering" src="https://img.shields.io/badge/Data_Engineering-C49A3D?style=flat-square" align="absmiddle">⠀<img alt="Finance" src="https://img.shields.io/badge/Finance-20397E?style=flat-square" align="absmiddle">
+A fraud-analytics data warehouse on Hadoop, Hive and PySpark. It loads 6.36M transactions through three layers (raw, cleaned, reporting) and produces fraud rates by transaction type and a list of high-risk accounts.
 
-### **[Image Classification](https://github.com/chengmarc/image-labelling)** ⠀<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle">
-ConvNet on MNIST/EMNIST; ResNet-34 and ResNet-101 on CIFAR-10/100. ResNet-34 uses basic blocks (two 3×3 convolutions), ResNet-101 uses bottleneck blocks (1×1 → 3×3 → 1×1). Core focus: how identity shortcut connections and network depth interact across datasets of varying difficulty.
+### [GPT-2 from Scratch](https://github.com/chengmarc/GPT-replication) ⠀<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle">
+GPT-2 (162M parameters) written from scratch in PyTorch. Each part is its own module: tokenizer, attention, layer norm, feed-forward, training loop. Trained on the Harry Potter books.
