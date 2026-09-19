@@ -29,7 +29,6 @@ GPT-2 (162M parameters) written from scratch in PyTorch. Each part is its own mo
 [![PyTorch](https://img.shields.io/badge/PyTorch-46637F?logo=pytorch&logoColor=white)](https://pytorch.org/) 
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-46637F?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-46637F?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) 
-[![CUDA](https://img.shields.io/badge/CUDA-46637F?logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 
 </td></tr>
 <tr><td>Data Science</td><td>
