@@ -1,5 +1,3 @@
-# Marc Cheng (Zhongmang Cheng)
-
 ## Selected Work
 
 ### <img src="icons/alphaverify.svg" width="32" align="absmiddle">&ensp;[AlphaVerify — Trading-Signal Validation Framework](https://github.com/doubletrends/alpha-verify)
