@@ -2,22 +2,22 @@
 
 ## Selected Work
 
-### [AlphaVerify — Trading-Signal Validation Framework](https://github.com/doubletrends/alpha-verify) ⠀<img alt="Finance" src="https://img.shields.io/badge/Finance-20397E?style=flat-square" align="absmiddle">⠀<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle">
+### <img src="icons/alphaverify.svg" width="32" align="absmiddle">&ensp;[AlphaVerify — Trading-Signal Validation Framework](https://github.com/doubletrends/alpha-verify)
 Checks whether trading signals actually work. It measures how often price moves ±X% within N days under each indicator condition, then compares that against 1,000 simulated random markets. On NASDAQ, 25 of 552 conditions passed. Pure chance would give you 27.6.
 
-### [Minecraft CityGen — Customizable AI City Generator](https://github.com/chengmarc/minecraft-citygen) ⠀<img alt="Software" src="https://img.shields.io/badge/Software-5A6B7A?style=flat-square" align="absmiddle">
+### <img src="icons/minecraft-citygen.svg" width="32" align="absmiddle">&ensp;[Minecraft CityGen — Customizable AI City Generator](https://github.com/chengmarc/minecraft-citygen)
 Turns your own Minecraft builds into a whole city. You mark buildings in-game with a few special blocks, the app lays out roads and places buildings from a seed, then writes the city back into a playable world. Windows app with an installer.
 
-### [WeChat Skill — Agentic AI Plugin](https://github.com/chengmarc/wechat-to-ai) ⠀<img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-2E7D6B?style=flat-square" align="absmiddle">⠀<img alt="Data Engineering" src="https://img.shields.io/badge/Data_Engineering-C49A3D?style=flat-square" align="absmiddle">
+### <img src="icons/wechat.svg" width="32" align="absmiddle">&ensp;[WeChat Skill — Agentic AI Plugin](https://github.com/chengmarc/wechat-to-ai)
 A Claude Code plugin that exports your WeChat history for AI to read. It reads from the local databases on your own machine and turns private and group chats into plain text an LLM can work with. Nothing leaves your computer.
 
-### [Mamba State-Space Forecaster](https://github.com/doubletrends/state-space-mamba) ⠀<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle">⠀<img alt="Finance" src="https://img.shields.io/badge/Finance-20397E?style=flat-square" align="absmiddle">
+### <img src="icons/mamba.svg" width="32" align="absmiddle">&ensp;[Mamba State-Space Forecaster](https://github.com/doubletrends/state-space-mamba)
 Mamba written from scratch in PyTorch, without the mamba-ssm library, and used to forecast Bitcoin. Compared against LSTM, SegRNN and Transformer models with walk-forward testing, so no model ever sees future data.
 
-### [PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw) ⠀<img alt="Data Engineering" src="https://img.shields.io/badge/Data_Engineering-C49A3D?style=flat-square" align="absmiddle">⠀<img alt="Finance" src="https://img.shields.io/badge/Finance-20397E?style=flat-square" align="absmiddle">
+### <img src="icons/paysim.svg" width="32" align="absmiddle">&ensp;[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)
 A fraud-analytics data warehouse on Hadoop, Hive and PySpark. It loads 6.36M transactions through three layers (raw, cleaned, reporting) and produces fraud rates by transaction type and a list of high-risk accounts.
 
-### [GPT-2 from Scratch](https://github.com/chengmarc/GPT-replication) ⠀<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7E6A99?style=flat-square" align="absmiddle">
+### <img src="icons/chatgpt.svg" width="32" align="absmiddle">&ensp;[GPT-2 from Scratch](https://github.com/chengmarc/GPT-replication)
 GPT-2 (162M parameters) written from scratch in PyTorch. Each part is its own module: tokenizer, attention, layer norm, feed-forward, training loop. Trained on the Harry Potter books.
 
 ## Technical Stack
