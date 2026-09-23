@@ -12,11 +12,11 @@ A Claude Code plugin that exports your WeChat history for AI to read. It reads f
 ### <img src="icons/bookmarkos.svg" width="32" align="absmiddle">&ensp;[Bookmark OS — Desktop Experience in your Browser](https://github.com/chengmarc/chengmarc.github.io)
 Your bookmarks as a desktop that opens in any browser, with no account to log in to. Desktop icons, a dock and a searchable bookmark window, all on one static page with no framework and no build step. Rearrange it, export the layout, and every browser starts from it.
 
-### <img src="icons/paysim.svg" width="32" align="absmiddle">&ensp;[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)
-A fraud-analytics data warehouse on Hadoop, Hive and PySpark. It loads 6.36M transactions through three layers (raw, cleaned, reporting) and produces fraud rates by transaction type and a list of high-risk accounts.
-
 ### <img src="icons/chatgpt.svg" width="32" align="absmiddle">&ensp;[GPT-2 from Scratch](https://github.com/chengmarc/GPT-replication)
 GPT-2 (162M parameters) written from scratch in PyTorch. Each part is its own module: tokenizer, attention, layer norm, feed-forward, training loop. Trained on the Harry Potter books.
+
+### <img src="icons/paysim.svg" width="32" align="absmiddle">&ensp;[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)
+A fraud-analytics data warehouse on Hadoop, Hive and PySpark. It loads 6.36M transactions through three layers (raw, cleaned, reporting) and produces fraud rates by transaction type and a list of high-risk accounts.
 
 ## Technical Stack
 
