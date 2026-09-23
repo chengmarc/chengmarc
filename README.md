@@ -10,7 +10,7 @@ Turns your own Minecraft builds into a whole city. You mark buildings in-game wi
 A Claude Code plugin that exports your WeChat history for AI to read. It reads from the local databases on your own machine and turns private and group chats into plain text an LLM can work with. Nothing leaves your computer.
 
 ### <img src="icons/bookmarkos.svg" width="32" align="absmiddle">&ensp;[Bookmark OS — Desktop Experience in your Browser](https://github.com/chengmarc/chengmarc.github.io)
-Your bookmarks as a desktop that opens in any browser, with no account to log in to. Desktop icons, a dock and a searchable bookmark window, all on one static page with no framework and no build step. Rearrange it, export the layout, and every browser starts from it. Live at [chengmarc.com](https://chengmarc.com).
+Your bookmarks as a desktop that opens in any browser, with no account to log in to. Desktop icons, a dock and a searchable bookmark window, all on one static page with no framework and no build step. Rearrange it, export the layout, and every browser starts from it.
 
 ### <img src="icons/paysim.svg" width="32" align="absmiddle">&ensp;[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)
 A fraud-analytics data warehouse on Hadoop, Hive and PySpark. It loads 6.36M transactions through three layers (raw, cleaned, reporting) and produces fraud rates by transaction type and a list of high-risk accounts.
