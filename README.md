@@ -1,5 +1,8 @@
 ## Selected Work
 
+### <img src="icons/bookmarkos.svg" width="32" align="absmiddle">&ensp;[Bookmark OS — Desktop Experience in your Browser](https://github.com/chengmarc/chengmarc.github.io)
+Your bookmarks as a desktop that opens in any browser, with no account to log in to. Desktop icons, a dock and a searchable bookmark window, all on one static page with no framework and no build step. Rearrange it, export the layout, and every browser starts from it.
+
 ### <img src="icons/alphaverify.svg" width="32" align="absmiddle">&ensp;[AlphaVerify — Trading-Signal Validation Framework](https://github.com/doubletrends/alpha-verify)
 Checks whether trading signals actually work. It measures how often price moves ±X% within N days under each indicator condition, then compares that against 1,000 simulated random markets. On NASDAQ, 25 of 552 conditions passed. Pure chance would give you 27.6.
 
@@ -8,9 +11,6 @@ Turns your own Minecraft builds into a whole city. You mark buildings in-game wi
 
 ### <img src="icons/wechat.svg" width="32" align="absmiddle">&ensp;[WeChat Skill — Agentic AI Plugin](https://github.com/chengmarc/wechat-to-ai)
 A Claude Code plugin that exports your WeChat history for AI to read. It reads from the local databases on your own machine and turns private and group chats into plain text an LLM can work with. Nothing leaves your computer.
-
-### <img src="icons/bookmarkos.svg" width="32" align="absmiddle">&ensp;[Bookmark OS — Desktop Experience in your Browser](https://github.com/chengmarc/chengmarc.github.io)
-Your bookmarks as a desktop that opens in any browser, with no account to log in to. Desktop icons, a dock and a searchable bookmark window, all on one static page with no framework and no build step. Rearrange it, export the layout, and every browser starts from it.
 
 ### <img src="icons/chatgpt.svg" width="32" align="absmiddle">&ensp;[GPT-2 from Scratch](https://github.com/chengmarc/GPT-replication)
 GPT-2 (162M parameters) written from scratch in PyTorch. Each part is its own module: tokenizer, attention, layer norm, feed-forward, training loop. Trained on the Harry Potter books.
