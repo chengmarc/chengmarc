@@ -9,7 +9,7 @@ Agent 2B: Run out of usage with Claude Code or Codex? Here's an AI coding agent 
 </tr>
 <tr>
 <td width="120" align="center"><a href="https://github.com/chengmarc/chengmarc.github.io"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/media/app-icon.svg" width="96"></a></td>
-<td><b><a href="https://github.com/chengmarc/chengmarc.github.io">Bookmark OS — Desktop Experience in your Browser</a></b><br>
+<td><b><a href="https://github.com/chengmarc/chengmarc.github.io">Bookmark OS — Desktop in your Browser</a></b><br>
 Bookmark OS: Your bookmarks as a desktop, from any browser, no account needed.<br>
 <img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/media/badge-browsers.svg"> <a href="https://chengmarc.com"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/media/badge-demo.svg"></a></td>
 </tr>
@@ -21,7 +21,7 @@ AlphaVerify: Put an end to all that "technical indicators" bullshit.<br>
 </tr>
 <tr>
 <td width="120" align="center"><a href="https://github.com/chengmarc/minecraft-citygen"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/src/gui/icons/app-icon.svg" width="96"></a></td>
-<td><b><a href="https://github.com/chengmarc/minecraft-citygen">Minecraft CityGen — Customizable AI City Generator</a></b><br>
+<td><b><a href="https://github.com/chengmarc/minecraft-citygen">Minecraft CityGen — Procedural City Generator</a></b><br>
 Minecraft CityGen: Turn your own Minecraft builds into an entire city.<br>
 <img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/pics/badge-minecraft.svg"> <a href="https://github.com/chengmarc/minecraft-citygen/releases/latest/download/Minecraft.CityGen-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/pics/badge-download.svg"></a></td>
 </tr>
