@@ -1,22 +1,75 @@
 ## Selected Work
 
-### <img src="icons/bookmarkos.svg" width="32" align="absmiddle">&ensp;[Bookmark OS — Desktop Experience in your Browser](https://github.com/chengmarc/chengmarc.github.io)
-Your bookmarks as a desktop that opens in any browser, with no account to log in to. Desktop icons, a dock and a searchable bookmark window, all on one static page with no framework and no build step. Rearrange it, export the layout, and every browser starts from it.
+<table>
+<tr>
+<td width="120" align="center"><a href="https://github.com/chengmarc/agent-2b"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/media/app-icon.svg" width="96"></a></td>
+<td>
 
-### <img src="icons/alphaverify.svg" width="32" align="absmiddle">&ensp;[AlphaVerify — Trading-Signal Validation Framework](https://github.com/doubletrends/alpha-verify)
-Checks whether trading signals actually work. It measures how often price moves ±X% within N days under each indicator condition, then compares that against 1,000 simulated random markets. On NASDAQ, 25 of 552 conditions passed. Pure chance would give you 27.6.
+### [Agent 2B — AI in your Flash Drive](https://github.com/chengmarc/agent-2b)
 
-### <img src="icons/minecraft-citygen.svg" width="32" align="absmiddle">&ensp;[Minecraft CityGen — Customizable AI City Generator](https://github.com/chengmarc/minecraft-citygen)
-Turns your own Minecraft builds into a whole city. You mark buildings in-game with a few special blocks, the app lays out roads and places buildings from a seed, then writes the city back into a playable world. Windows app with an installer.
+Agent 2B: Run out of usage with Claude Code or Codex? Here's an AI coding agent run from your flash drive.
 
-### <img src="icons/wechat.svg" width="32" align="absmiddle">&ensp;[WeChat Skill — Agentic AI Plugin](https://github.com/chengmarc/wechat-to-ai)
-A Claude Code plugin that exports your WeChat history for AI to read. It reads from the local databases on your own machine and turns private and group chats into plain text an LLM can work with. Nothing leaves your computer.
+<p><a href="https://github.com/chengmarc/agent-2b#try-it"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/media/badge-windows.svg"></a> <a href="https://github.com/chengmarc/agent-2b#try-it"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/media/badge-nvidia.svg"></a></p>
 
-### <img src="icons/chatgpt.svg" width="32" align="absmiddle">&ensp;[GPT-2 from Scratch](https://github.com/chengmarc/GPT-replication)
-GPT-2 (162M parameters) written from scratch in PyTorch. Each part is its own module: tokenizer, attention, layer norm, feed-forward, training loop. Trained on the Harry Potter books.
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><a href="https://github.com/chengmarc/chengmarc.github.io"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/media/app-icon.svg" width="96"></a></td>
+<td>
 
-### <img src="icons/paysim.svg" width="32" align="absmiddle">&ensp;[PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)
-A fraud-analytics data warehouse on Hadoop, Hive and PySpark. It loads 6.36M transactions through three layers (raw, cleaned, reporting) and produces fraud rates by transaction type and a list of high-risk accounts.
+### [Bookmark OS — Desktop Experience in your Browser](https://github.com/chengmarc/chengmarc.github.io)
+
+Bookmark OS: Your bookmarks as a desktop, from any browser, no account needed.
+
+<p><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/media/badge-browsers.svg"> <a href="https://chengmarc.com"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/media/badge-demo.svg"></a></p>
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><a href="https://github.com/doubletrends/alpha-verify"><img src="https://raw.githubusercontent.com/doubletrends/alpha-verify/master/docs/alphaverify-icon.svg" width="96"></a></td>
+<td>
+
+### [AlphaVerify — Trading-Signal Validation Framework](https://github.com/doubletrends/alpha-verify)
+
+AlphaVerify: Put an end to all that "technical indicators" bullshit.
+
+<p><img src="https://raw.githubusercontent.com/doubletrends/alpha-verify/master/docs/badge-cuda.svg"> <a href="https://pypi.org/project/alphaverify/"><img src="https://raw.githubusercontent.com/doubletrends/alpha-verify/master/docs/badge-pypi.svg"></a></p>
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><a href="https://github.com/chengmarc/minecraft-citygen"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/src/gui/icons/app-icon.svg" width="96"></a></td>
+<td>
+
+### [Minecraft CityGen — Customizable AI City Generator](https://github.com/chengmarc/minecraft-citygen)
+
+Minecraft CityGen: Turn your own Minecraft builds into an entire city.
+
+<p><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/pics/badge-minecraft.svg"> <a href="https://github.com/chengmarc/minecraft-citygen/releases/latest/download/Minecraft.CityGen-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/pics/badge-download.svg"></a></p>
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><a href="https://github.com/chengmarc/wechat-to-ai"><img src="icons/wechat.svg" width="96"></a></td>
+<td>
+
+### [WeChat Skill — Agentic AI Plugin](https://github.com/chengmarc/wechat-to-ai)
+
+你的微信记录，本地喂给 AI。导出双人会话、群聊、按消息量排名的重要联系人 —— 全程离线，数据不出本机。A local-first WeChat 4.1+ chat export plugin for Claude Code: no cloud, no telemetry, no account access.
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><a href="https://github.com/chengmarc/paysim-dw"><img src="icons/paysim.svg" width="96"></a></td>
+<td>
+
+### [PaySim Fraud Detection Data Warehouse](https://github.com/chengmarc/paysim-dw)
+
+Offline fraud detection data warehouse built with PySpark + Hive + Hadoop. Processes 6.3M PaySim transactions across a 3-layer architecture (ODS → DWD → ADS).
+
+</td>
+</tr>
+</table>
 
 ## Technical Stack
 
