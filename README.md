@@ -11,7 +11,7 @@ Agent 2B: Run out of usage with Claude Code or Codex? Here's an AI coding agent 
 <td width="120" align="center"><a href="https://github.com/chengmarc/chengmarc.github.io"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/media/app-icon.svg" width="96"></a></td>
 <td><b><a href="https://github.com/chengmarc/chengmarc.github.io">Bookmark OS — Desktop in your Browser</a></b><br>
 Bookmark OS: Your bookmarks as a desktop, from any browser, no account needed.<br>
-<img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/media/badge-browsers.svg"> <a href="https://chengmarc.com"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/media/badge-demo.svg"></a></td>
+<img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/media/badges/badge-chrome.svg"> <a href="https://chengmarc.com"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/media/badges/badge-firefox.svg"></a></td>
 </tr>
 <tr>
 <td width="120" align="center"><a href="https://github.com/doubletrends/alpha-verify"><img src="https://raw.githubusercontent.com/doubletrends/alpha-verify/master/docs/alphaverify-icon.svg" width="96"></a></td>
