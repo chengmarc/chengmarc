@@ -26,9 +26,10 @@ Minecraft CityGen: Turn your own Minecraft builds into an entire city.<br>
 <img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/pics/badge-minecraft.svg"> <a href="https://github.com/chengmarc/minecraft-citygen/releases/latest/download/Minecraft.CityGen-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/pics/badge-download.svg"></a></td>
 </tr>
 <tr>
-<td width="120" align="center"><a href="https://github.com/chengmarc/wechat-to-ai"><img src="icons/wechat.svg" width="96"></a></td>
-<td><b><a href="https://github.com/chengmarc/wechat-to-ai">WeChat Skill — Agentic AI Plugin</a></b><br>
-你的微信记录，本地喂给 AI。导出双人会话、群聊、按消息量排名的重要联系人 —— 全程离线，数据不出本机。A local-first WeChat 4.1+ chat export plugin for Claude Code: no cloud, no telemetry, no account access.</td>
+<td width="120" align="center"><a href="https://github.com/chengmarc/wechat-to-ai"><img src="https://raw.githubusercontent.com/chengmarc/wechat-to-ai/master/doc/app-icon.svg" width="96"></a></td>
+<td><b><a href="https://github.com/chengmarc/wechat-to-ai">微信.skill - 让 AI 读懂你的微信</a></b><br>
+A WeChat chat export plugin for Claude Code: no cloud, no telemetry, no account access, written in Rust.<br>
+<img src="https://raw.githubusercontent.com/chengmarc/wechat-to-ai/master/doc/badge-windows.svg"> <img src="https://raw.githubusercontent.com/chengmarc/wechat-to-ai/master/doc/badge-claude.svg"></td>
 </tr>
 <tr>
 <td width="120" align="center"><a href="https://github.com/chengmarc/paysim-dw"><img src="icons/paysim.svg" width="96"></a></td>
