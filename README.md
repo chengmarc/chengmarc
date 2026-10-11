@@ -12,14 +12,14 @@
 <img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/extension/badges/badge-chrome.svg"> <a href="https://chengmarc.com"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/extension/badges/badge-firefox.svg"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/apjbdkedomhbdmknfhcfiniipcjedibc"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/extension/badges/badge-edge.svg"></a></td>
 </tr>
 <tr valign="middle">
+<td width="110" align="right"><a href="https://github.com/chengmarc/uom-converter"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/src/web/app-icon.svg" width="89"></a></td>
+<td><p><big><b><a href="https://github.com/chengmarc/uom-converter">UOM Converter - Unit Converter for Electrical Industry</a></b></big></p>
+<a href="https://apps.microsoft.com/detail/9PHZQBV736JC"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/store/badges/badge-microsoft.svg"></a> <a href="https://github.com/chengmarc/uom-converter/releases/latest/download/UOM-Converter-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/store/badges/badge-download.svg"></a></td>
+</tr>
+<tr valign="middle">
 <td width="110" align="right"><a href="https://github.com/chengmarc/minecraft-citygen"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/src/gui/icons/app-icon.svg" width="89"></a></td>
 <td><p><big><b><a href="https://github.com/chengmarc/minecraft-citygen">Minecraft CityGen - Procedural City Generator</a></b></big></p>
 <a href="https://github.com/chengmarc/minecraft-citygen/releases/latest/download/Minecraft.CityGen-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/pics/badge-download.svg"></a> <img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/pics/badge-minecraft.svg"></td>
-</tr>
-<tr valign="middle">
-<td width="110" align="right"><a href="https://github.com/chengmarc/uom-converter"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/src/web/app-icon.svg" width="89"></a></td>
-<td><p><big><b><a href="https://github.com/chengmarc/uom-converter">UOM Converter - Unit Converter for Electrical Industry</a></b></big></p>
-<a href="https://github.com/chengmarc/uom-converter/releases/latest/download/UOM-Converter-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/store/badges/badge-download.svg"></a></td>
 </tr>
 <tr valign="middle">
 <td width="110" align="right"><a href="https://github.com/chengmarc/wechat-to-ai"><img src="https://raw.githubusercontent.com/chengmarc/wechat-to-ai/master/doc/app-icon.svg" width="89"></a></td>
