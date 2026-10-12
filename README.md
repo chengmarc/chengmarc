@@ -38,7 +38,7 @@
 <table>
 <tr>
 <td width="40%" valign="middle">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengmarc&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=every-token,misc&custom_title=Languages&hide_border=true&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengmarc&layout=compact&hide_title=true&langs_count=12&exclude_repo=every-token,misc,ERC-20-memecoin&hide_border=true&theme=transparent">
 </td>
 <td width="60%" valign="middle">
 <ul>
