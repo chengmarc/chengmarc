@@ -9,7 +9,7 @@
 <tr valign="middle">
 <td width="110" align="right"><a href="https://github.com/chengmarc/agent-2b"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/src/app/icon.svg" width="89"></a></td>
 <td><p><big><b><a href="https://github.com/chengmarc/agent-2b">Agent 2B - AI in Your Flash Drive</a></b></big></p>
-<a href="https://github.com/chengmarc/agent-2b#try-it"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/docs/badges/badge-microsoft-store.svg" height="44"></a> <a href="https://github.com/chengmarc/agent-2b/releases/latest/download/Agent-2B-portable.zip"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/docs/badges/badge-download.svg" height="44"></a></td>
+<a href="https://github.com/chengmarc/agent-2b#try-it"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/docs/badges/badge-microsoft-store.svg" height="44"></a> <a href="https://github.com/chengmarc/agent-2b/releases/latest/download/Agent-2B-portable.zip"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/docs/badges/badge-download.svg" height="44"></a> <a href="https://github.com/chengmarc/agent-2b#try-it"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/docs/badges/badge-gpu.svg" height="44"></a></td>
 </tr>
 <tr valign="middle">
 <td width="110" align="right"><a href="https://github.com/chengmarc/uom-converter"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/packages/brand/public/app-icon.svg" width="89"></a></td>
