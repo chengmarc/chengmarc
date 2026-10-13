@@ -2,19 +2,19 @@
 
 <table>
 <tr valign="middle">
-<td width="110" align="right"><a href="https://github.com/chengmarc/agent-2b"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/media/app-icon.svg" width="89"></a></td>
-<td><p><big><b><a href="https://github.com/chengmarc/agent-2b">Agent 2B - AI in your Flash Drive</a></b></big></p>
-<a href="https://github.com/chengmarc/agent-2b#try-it"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/media/badge-windows.svg"></a> <a href="https://github.com/chengmarc/agent-2b#try-it"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/media/badge-nvidia.svg"></a></td>
-</tr>
-<tr valign="middle">
 <td width="110" align="right"><a href="https://github.com/chengmarc/chengmarc.github.io"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/src/app-icon.svg" width="89"></a></td>
 <td><p><big><b><a href="https://github.com/chengmarc/chengmarc.github.io">Bookmark OS - Desktop in your Browser</a></b></big></p>
 <img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/extension/badges/badge-chrome.svg"> <a href="https://chengmarc.com"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/extension/badges/badge-firefox.svg"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/apjbdkedomhbdmknfhcfiniipcjedibc"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/extension/badges/badge-edge.svg"></a></td>
 </tr>
 <tr valign="middle">
-<td width="110" align="right"><a href="https://github.com/chengmarc/uom-converter"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/src/web/app-icon.svg" width="89"></a></td>
+<td width="110" align="right"><a href="https://github.com/chengmarc/agent-2b"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/src/app/icon.svg" width="89"></a></td>
+<td><p><big><b><a href="https://github.com/chengmarc/agent-2b">Agent 2B - AI in Your Flash Drive</a></b></big></p>
+<a href="https://github.com/chengmarc/agent-2b#try-it"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/docs/badges/badge-microsoft-store.svg" height="40"></a> <a href="https://github.com/chengmarc/agent-2b/releases/latest/download/Agent-2B-portable.zip"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/docs/badges/badge-download.svg" height="40"></a></td>
+</tr>
+<tr valign="middle">
+<td width="110" align="right"><a href="https://github.com/chengmarc/uom-converter"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/packages/brand/public/app-icon.svg" width="89"></a></td>
 <td><p><big><b><a href="https://github.com/chengmarc/uom-converter">UOM Converter - Unit Converter for Electrical Industry</a></b></big></p>
-<a href="https://apps.microsoft.com/detail/9PHZQBV736JC"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/store/badges/badge-microsoft.svg"></a> <a href="https://github.com/chengmarc/uom-converter/releases/latest/download/UOM-Converter-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/store/badges/badge-download.svg"></a></td>
+<a href="https://uom-converter.com/"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/docs/badges/badge-browser.svg" height="40"></a> <a href="https://play.google.com/store/apps/details?id=com.uomconverter.app"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/docs/badges/badge-google-play.svg" height="40"></a> <a href="https://apps.microsoft.com/detail/9PHZQBV736JC"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/docs/badges/badge-microsoft-store.svg" height="40"></a> <a href="https://github.com/chengmarc/uom-converter/releases/latest/download/UOM-Converter-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/docs/badges/badge-download.svg" height="40"></a></td>
 </tr>
 <tr valign="middle">
 <td width="110" align="right"><a href="https://github.com/chengmarc/minecraft-citygen"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/src/gui/icons/app-icon.svg" width="89"></a></td>
