@@ -19,7 +19,7 @@
 <tr valign="middle">
 <td width="110" align="right"><a href="https://github.com/chengmarc/minecraft-citygen"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/src/gui/icons/app-icon.svg" width="89"></a></td>
 <td><p><big><b><a href="https://github.com/chengmarc/minecraft-citygen">Minecraft CityGen - Procedural City Generator</a></b></big></p>
-<a href="https://github.com/chengmarc/minecraft-citygen/releases/latest/download/Minecraft.CityGen-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/pics/badge-download.svg"></a> <img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/pics/badge-minecraft.svg"></td>
+<img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/badges/badge-minecraft.svg" height="44"> <a href="https://github.com/chengmarc/minecraft-citygen/releases/latest/download/Minecraft.CityGen-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/badges/badge-download.svg" height="44"></a></td>
 </tr>
 <tr valign="middle">
 <td width="110" align="right"><a href="https://github.com/chengmarc/wechat-to-ai"><img src="https://raw.githubusercontent.com/chengmarc/wechat-to-ai/master/doc/app-icon.svg" width="89"></a></td>
