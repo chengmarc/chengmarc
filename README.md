@@ -14,7 +14,7 @@
 <tr valign="middle">
 <td width="110" align="right"><a href="https://github.com/chengmarc/uom-converter"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/packages/brand/public/app-icon.svg" width="89"></a></td>
 <td><p><big><b><a href="https://github.com/chengmarc/uom-converter">UOM Converter - Unit Converter for Electrical Industry</a></b></big></p>
-<a href="https://github.com/chengmarc/uom-converter/releases/latest/download/UOM-Converter-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/docs/badges/badge-download.svg" height="44"></a> <a href="https://apps.microsoft.com/detail/9PHZQBV736JC"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/docs/badges/badge-microsoft-store.svg" height="44"></a> <a href="https://play.google.com/store/apps/details?id=com.uomconverter.app"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/docs/badges/badge-google-play.svg" height="44"></a></td>
+<a href="https://github.com/chengmarc/uom-converter/releases/latest/download/UOM-Converter-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/docs/badges/badge-download.svg" height="44"></a> <a href="https://apps.microsoft.com/detail/9PHZQBV736JC"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/docs/badges/badge-microsoft-store.svg" height="44"></a> </td>
 </tr>
 <tr valign="middle">
 <td width="110" align="right"><a href="https://github.com/chengmarc/minecraft-citygen"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/src/app-icon.svg" width="89"></a></td>
