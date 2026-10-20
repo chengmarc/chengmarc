@@ -19,7 +19,7 @@
 <tr valign="middle">
 <td width="110" align="right"><a href="https://github.com/chengmarc/minecraft-citygen"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/src/app-icon.svg" width="89"></a></td>
 <td><p><big><b><a href="https://github.com/chengmarc/minecraft-citygen">MC CityGen - Procedural City Generator</a></b></big></p>
-<a href="https://github.com/chengmarc/minecraft-citygen/releases/latest/download/MC.CityGen-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/badges/badge-download.svg" height="44"></a> <img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/badges/badge-mc.svg" height="44"></td>
+<a href="https://github.com/chengmarc/minecraft-citygen/releases/latest/download/MC.CityGen-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/badges/badge-download.svg" height="44"></a> <a href="https://apps.microsoft.com/detail/9NPSMX3TB1T7"><img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/badges/badge-microsoft-store.svg" height="44"></a> <img src="https://raw.githubusercontent.com/chengmarc/minecraft-citygen/main/docs/badges/badge-mc.svg" height="44"></td>
 </tr>
 <tr valign="middle">
 <td width="110" align="right"><a href="https://github.com/chengmarc/wechat-to-ai"><img src="https://raw.githubusercontent.com/chengmarc/wechat-to-ai/master/doc/app-icon.svg" width="89"></a></td>
