@@ -4,7 +4,7 @@
 <tr valign="middle">
 <td width="110" align="right"><a href="https://github.com/chengmarc/chengmarc.github.io"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/src/app-icon.svg" width="89"></a></td>
 <td><p><big><b><a href="https://github.com/chengmarc/chengmarc.github.io">Bookmark OS - Desktop in your Browser</a></b></big></p>
-<img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/extension/badges/badge-chrome.svg" height="44"> <a href="https://chengmarc.com"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/extension/badges/badge-firefox.svg" height="44"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/apjbdkedomhbdmknfhcfiniipcjedibc"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/extension/badges/badge-edge.svg" height="44"></a></td>
+<a href="https://chromewebstore.google.com/detail/bookmark-os/mbfmccadkfdnhojahjehknphgmjkehkp"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/docs/badges/badge-chrome.svg" height="44"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/bookmark-os/"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/docs/badges/badge-firefox.svg" height="44"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/apjbdkedomhbdmknfhcfiniipcjedibc"><img src="https://raw.githubusercontent.com/chengmarc/chengmarc.github.io/main/docs/badges/badge-edge.svg" height="44"></a></td>
 </tr>
 <tr valign="middle">
 <td width="110" align="right"><a href="https://github.com/chengmarc/agent-2b"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/src/app/icon.svg" width="89"></a></td>
@@ -12,7 +12,7 @@
 <a href="https://github.com/chengmarc/agent-2b/releases/latest/download/Agent-2B-portable.zip"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/docs/badges/badge-download.svg" height="44"></a> <a href="https://apps.microsoft.com/detail/9NCRP4F65JTF"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/docs/badges/badge-microsoft-store.svg" height="44"></a> <a href="https://github.com/chengmarc/agent-2b#try-it"><img src="https://raw.githubusercontent.com/chengmarc/agent-2b/main/docs/badges/badge-gpu.svg" height="44"></a></td>
 </tr>
 <tr valign="middle">
-<td width="110" align="right"><a href="https://github.com/chengmarc/uom-converter"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/packages/brand/public/app-icon.svg" width="89"></a></td>
+<td width="110" align="right"><a href="https://github.com/chengmarc/uom-converter"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/packages/brand/app-icon.svg" width="89"></a></td>
 <td><p><big><b><a href="https://github.com/chengmarc/uom-converter">UOM Converter - Unit Converter for Electrical Industry</a></b></big></p>
 <a href="https://github.com/chengmarc/uom-converter/releases/latest/download/UOM-Converter-setup.exe"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/docs/badges/badge-download.svg" height="44"></a> <a href="https://apps.microsoft.com/detail/9PHZQBV736JC"><img src="https://raw.githubusercontent.com/chengmarc/uom-converter/main/docs/badges/badge-microsoft-store.svg" height="44"></a> </td>
 </tr>
